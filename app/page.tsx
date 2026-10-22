@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import { guides } from "@/lib/data";
 
@@ -5,9 +6,14 @@ export default function HomePage() {
   return (
     <div>
       <section className="rounded-3xl bg-kopi-900 px-6 py-10 text-center text-krem-100 shadow-md">
-        <p className="text-5xl" aria-hidden>
-          🎩☕
-        </p>
+        <Image
+          src="/icon.png"
+          alt="Logo TopiKopi"
+          width={512}
+          height={512}
+          className="mx-auto h-20 w-20 rounded-full shadow-md"
+          priority
+        />
         <h1 className="mt-3 text-4xl font-extrabold tracking-tight">
           Topi<span className="text-bakar-500">Kopi</span>
         </h1>
