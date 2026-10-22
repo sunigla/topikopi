@@ -1,1 +1,109 @@
-aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIjsKaW1wb3J0IHsgZ3VpZGVzIH0gZnJvbSAiQC9saWIvZGF0YSI7CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBIb21lUGFnZSgpIHsKICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJyb3VuZGVkLTN4bCBiZy1rb3BpLTkwMCBweC02IHB5LTEwIHRleHQtY2VudGVyIHRleHQta3JlbS0xMDAgc2hhZG93LW1kIj4KICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtNXhsIiBhcmlhLWhpZGRlbj4KICAgICAgICAgIPCfjqnimJUKICAgICAgICA8L3A+CiAgICAgICAgPGgxIGNsYXNzTmFtZT0ibXQtMyB0ZXh0LTR4bCBmb250LWV4dHJhYm9sZCB0cmFja2luZy10aWdodCI+CiAgICAgICAgICBUb3BpPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LWJha2FyLTUwMCI+S29waTwvc3Bhbj4KICAgICAgICA8L2gxPgogICAgICAgIDxwIGNsYXNzTmFtZT0ibXgtYXV0byBtdC0zIG1heC13LW1kIHRleHQtYmFzZSBsZWFkaW5nLXJlbGF4ZWQgdGV4dC1rcmVtLTIwMCI+CiAgICAgICAgICBUb3BpayBLb3BpIOKAlCBkaXR1bnR1biBzZWR1aCwgc2VsYW5na2FoIGRlbWkgc2VsYW5na2FoLgogICAgICAgIDwvcD4KICAgICAgICA8cCBjbGFzc05hbWU9Im14LWF1dG8gbXQtMiBtYXgtdy1tZCB0ZXh0LXNtIGxlYWRpbmctcmVsYXhlZCB0ZXh0LWtyZW0tMzAwIj4KICAgICAgICAgIEFzaXN0ZW4gc2VkdWggdW50dWsgbWVzaW4gZXNwcmVzc28gcnVtYWhhbiAoYXdhbG55YSB1bnR1ayBMYUhvbWUKICAgICAgICAgIDUtaW4tMSk6IHBhbmR1YW4gaW50ZXJha3RpZiBkZW5nYW4gdGltZXIsIHRhbnBhIG1lbmViYWstbmViYWsgbGFnaS4KICAgICAgICA8L3A+CiAgICAgIDwvc2VjdGlvbj4KCiAgICAgIDxoMiBjbGFzc05hbWU9Im10LTggdGV4dC14bCBmb250LWV4dHJhYm9sZCB0ZXh0LWtvcGktOTAwIj4KICAgICAgICBNYXUgc2VkdWggYXBhIGhhcmkgaW5pPwogICAgICA8L2gyPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNCBncmlkIGdyaWQtY29scy0xIGdhcC00IHNtOmdyaWQtY29scy0yIj4KICAgICAgICB7Z3VpZGVzLm1hcCgoZykgPT4gKAogICAgICAgICAgPExpbmsKICAgICAgICAgICAga2V5PXtnLnNsdWd9CiAgICAgICAgICAgIGhyZWY9e2AvcGFuZHVhbi8ke2cuc2x1Z31gfQogICAgICAgICAgICBjbGFzc05hbWU9Imdyb3VwIHJvdW5kZWQtM3hsIGJvcmRlciBib3JkZXIta3JlbS0yMDAgYmctd2hpdGUgcC01IHNoYWRvdy1zbSB0cmFuc2l0aW9uIGhvdmVyOi10cmFuc2xhdGUteS0wLjUgaG92ZXI6c2hhZG93LW1kIgogICAgICAgICAgPgogICAgICAgICAgICA8cCBjbGFzc05hbWU9InRleHQtNHhsIiBhcmlhLWhpZGRlbj4KICAgICAgICAgICAgICB7Zy5lbW9qaX0KICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJtdC0yIHRleHQteGwgZm9udC1leHRyYWJvbGQgdGV4dC1rb3BpLTkwMCBncm91cC1ob3Zlcjp0ZXh0LWJha2FyLTYwMCI+CiAgICAgICAgICAgICAge2cubmFtZX0KICAgICAgICAgICAgPC9oMz4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0xIHRleHQtc20gbGVhZGluZy1yZWxheGVkIHRleHQta29waS03MDAiPgogICAgICAgICAgICAgIHtnLnRhZ2xpbmV9CiAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0zIHRleHQteHMgZm9udC1ib2xkIHVwcGVyY2FzZSB0cmFja2luZy13aWRlIHRleHQta29waS01MDAiPgogICAgICAgICAgICAgIOKPsSB7Zy5taW51dGVzfSDCtyB7Zy5zdGVwcy5sZW5ndGh9IGxhbmdrYWgKICAgICAgICAgICAgPC9wPgogICAgICAgICAgPC9MaW5rPgogICAgICAgICkpfQogICAgICA8L2Rpdj4KCiAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC02IGdyaWQgZ3JpZC1jb2xzLTEgZ2FwLTQgc206Z3JpZC1jb2xzLTIiPgogICAgICAgIDxMaW5rCiAgICAgICAgICBocmVmPSIvZG9rdGVyIgogICAgICAgICAgY2xhc3NOYW1lPSJyb3VuZGVkLTN4bCBiZy1iYWthci01MDAgcC01IHRleHQtd2hpdGUgc2hhZG93LXNtIHRyYW5zaXRpb24gaG92ZXI6YmctYmFrYXItNjAwIgogICAgICAgID4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC0zeGwiIGFyaWEtaGlkZGVuPgogICAgICAgICAgICDwn6m6CiAgICAgICAgICA8L3A+CiAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJtdC0yIHRleHQtbGcgZm9udC1leHRyYWJvbGQiPkRva3RlciBLb3BpPC9oMz4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMSB0ZXh0LXNtIGxlYWRpbmctcmVsYXhlZCB0ZXh0LXdoaXRlLzkwIj4KICAgICAgICAgICAgS29waSBhc2FtLCBwYWhpdCwgZW5jZXIsIGNyZW1hIHRpcGlzLCBzdXN1IG5nZ2FrIGZvYW0/IEphd2FiIDHigJMyCiAgICAgICAgICAgIHBlcnRhbnlhYW4sIGtlbHVhciBkaWFnbm9zaXMgKyBjYXJhIG1lbXBlcmJhaWtpbnlhLgogICAgICAgICAgPC9wPgogICAgICAgIDwvTGluaz4KICAgICAgICA8TGluawogICAgICAgICAgaHJlZj0iL2NhdGF0YW4iCiAgICAgICAgICBjbGFzc05hbWU9InJvdW5kZWQtM3hsIGJnLWtvcGktODAwIHAtNSB0ZXh0LWtyZW0tMTAwIHNoYWRvdy1zbSB0cmFuc2l0aW9uIGhvdmVyOmJnLWtvcGktNzAwIgogICAgICAgID4KICAgICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC0zeGwiIGFyaWEtaGlkZGVuPgogICAgICAgICAgICDwn5OTCiAgICAgICAgICA8L3A+CiAgICAgICAgICA8aDMgY2xhc3NOYW1lPSJtdC0yIHRleHQtbGcgZm9udC1leHRyYWJvbGQiPkNhdGF0YW4gU2F5YTwvaDM+CiAgICAgICAgICA8cCBjbGFzc05hbWU9Im10LTEgdGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQgdGV4dC1rcmVtLTIwMCI+CiAgICAgICAgICAgIFNpbXBhbiBoYXNpbCB0aWFwIHNlZHVoOiBiaWppLCBtaW51bWFuLCBuaWxhaSByYXNhLiBUZXJzaW1wYW4gaGFueWEKICAgICAgICAgICAgZGkgcGVyYW5na2F0IGluaSwgdGFucGEgYWt1bi4KICAgICAgICAgIDwvcD4KICAgICAgICA8L0xpbms+CiAgICAgIDwvZGl2PgoKICAgICAgPExpbmsKICAgICAgICBocmVmPSIvcmVzZXAiCiAgICAgICAgY2xhc3NOYW1lPSJtdC00IGJsb2NrIHJvdW5kZWQtM3hsIGJvcmRlci0yIGJvcmRlci1kYXNoZWQgYm9yZGVyLWtvcGktMzAwIGJnLWtyZW0tNTAgcC01IHRleHQtY2VudGVyIHRyYW5zaXRpb24gaG92ZXI6Ymcta3JlbS0yMDAiCiAgICAgID4KICAgICAgICA8c3BhbiBjbGFzc05hbWU9ImZvbnQtZXh0cmFib2xkIHRleHQta29waS05MDAiPvCfk48gUmVzZXAgRGFzYXI8L3NwYW4+CiAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJtdC0xIGJsb2NrIHRleHQtc20gdGV4dC1rb3BpLTcwMCI+CiAgICAgICAgICBUYWthcmFuICYgcmFzaW8gc3RhbmRhciBzZW11YSBtaW51bWFuIGRhbGFtIHNhdHUgaGFsYW1hbiByaW5na2FzLgogICAgICAgIDwvc3Bhbj4KICAgICAgPC9MaW5rPgoKICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJtdC04IHJvdW5kZWQtM3hsIGJnLXdoaXRlIHAtNiBzaGFkb3ctc20iPgogICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtbGcgZm9udC1leHRyYWJvbGQgdGV4dC1rb3BpLTkwMCI+CiAgICAgICAgICBTZWJlbHVtIHNlZHVoIHBlcnRhbWEga2FsaQogICAgICAgIDwvaDI+CiAgICAgICAgPHVsIGNsYXNzTmFtZT0ibXQtMyBsaXN0LWRpc2Mgc3BhY2UteS0yIHBsLTUgdGV4dC1zbSBsZWFkaW5nLXJlbGF4ZWQgdGV4dC1rb3BpLTk1MCI+CiAgICAgICAgICA8bGk+CiAgICAgICAgICAgIExha3VrYW4gPHN0cm9uZz5mbHVzaGluZyBpbnRlcm5hbDwvc3Ryb25nPjogcGFzYW5nIHBvcnRhZmlsdGVyIHRhbnBhCiAgICAgICAgICAgIGtvcGksIHB1cmdlIHN0ZWFtIHdhbmQgwrEzMCBkZXRpaywgbGFsdSBhbGlya2FuIHRvbWJvbCAyLUNVUCBzZWtpdGFyCiAgICAgICAgICAgIDUga2FsaSBzYW1wYWkgYWlyIGJlcnNpaCBkYW4gdGlkYWsgYmVyYmF1LgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaT4KICAgICAgICAgICAgPHN0cm9uZz5KYW5nYW4gcGVybmFoPC9zdHJvbmc+IG1lbmphbGFua2FuIG1lc2luIGRlbmdhbiB0YW5na2kKICAgICAgICAgICAga29zb25nIOKAlCBwb21wYSBiaXNhIHJ1c2FrLgogICAgICAgICAgPC9saT4KICAgICAgICAgIDxsaT4KICAgICAgICAgICAgU2lzYWthbiBydWFuZyDCsTMgY20gZGkgc2FtcGluZy9iZWxha2FuZyBtZXNpbiBkYW4gwrExNSBjbSBkaSBhdGFzbnlhLgogICAgICAgICAgPC9saT4KICAgICAgICA8L3VsPgogICAgICA8L3NlY3Rpb24+CiAgICA8L2Rpdj4KICApOwp9Cg==
+import Link from "next/link";
+import { guides } from "@/lib/data";
+
+export default function HomePage() {
+  return (
+    <div>
+      <section className="rounded-3xl bg-kopi-900 px-6 py-10 text-center text-krem-100 shadow-md">
+        <p className="text-5xl" aria-hidden>
+          🎩☕
+        </p>
+        <h1 className="mt-3 text-4xl font-extrabold tracking-tight">
+          Topi<span className="text-bakar-500">Kopi</span>
+        </h1>
+        <p className="mx-auto mt-3 max-w-md text-base leading-relaxed text-krem-200">
+          Topik Kopi — dituntun seduh, selangkah demi selangkah.
+        </p>
+        <p className="mx-auto mt-2 max-w-md text-sm leading-relaxed text-krem-300">
+          Asisten seduh untuk mesin espresso rumahan (awalnya untuk LaHome
+          5-in-1): panduan interaktif dengan timer, tanpa menebak-nebak lagi.
+        </p>
+      </section>
+
+      <h2 className="mt-8 text-xl font-extrabold text-kopi-900">
+        Mau seduh apa hari ini?
+      </h2>
+      <div className="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2">
+        {guides.map((g) => (
+          <Link
+            key={g.slug}
+            href={`/panduan/${g.slug}`}
+            className="group rounded-3xl border border-krem-200 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:shadow-md"
+          >
+            <p className="text-4xl" aria-hidden>
+              {g.emoji}
+            </p>
+            <h3 className="mt-2 text-xl font-extrabold text-kopi-900 group-hover:text-bakar-600">
+              {g.name}
+            </h3>
+            <p className="mt-1 text-sm leading-relaxed text-kopi-700">
+              {g.tagline}
+            </p>
+            <p className="mt-3 text-xs font-bold uppercase tracking-wide text-kopi-500">
+              ⏱ {g.minutes} · {g.steps.length} langkah
+            </p>
+          </Link>
+        ))}
+      </div>
+
+      <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2">
+        <Link
+          href="/dokter"
+          className="rounded-3xl bg-bakar-500 p-5 text-white shadow-sm transition hover:bg-bakar-600"
+        >
+          <p className="text-3xl" aria-hidden>
+            🩺
+          </p>
+          <h3 className="mt-2 text-lg font-extrabold">Dokter Kopi</h3>
+          <p className="mt-1 text-sm leading-relaxed text-white/90">
+            Kopi asam, pahit, encer, crema tipis, susu nggak foam? Jawab 1–2
+            pertanyaan, keluar diagnosis + cara memperbaikinya.
+          </p>
+        </Link>
+        <Link
+          href="/catatan"
+          className="rounded-3xl bg-kopi-800 p-5 text-krem-100 shadow-sm transition hover:bg-kopi-700"
+        >
+          <p className="text-3xl" aria-hidden>
+            📓
+          </p>
+          <h3 className="mt-2 text-lg font-extrabold">Catatan Saya</h3>
+          <p className="mt-1 text-sm leading-relaxed text-krem-200">
+            Simpan hasil tiap seduh: biji, minuman, nilai rasa. Tersimpan hanya
+            di perangkat ini, tanpa akun.
+          </p>
+        </Link>
+      </div>
+
+      <Link
+        href="/resep"
+        className="mt-4 block rounded-3xl border-2 border-dashed border-kopi-300 bg-krem-50 p-5 text-center transition hover:bg-krem-200"
+      >
+        <span className="font-extrabold text-kopi-900">📏 Resep Dasar</span>
+        <span className="mt-1 block text-sm text-kopi-700">
+          Takaran & rasio standar semua minuman dalam satu halaman ringkas.
+        </span>
+      </Link>
+
+      <section className="mt-8 rounded-3xl bg-white p-6 shadow-sm">
+        <h2 className="text-lg font-extrabold text-kopi-900">
+          Sebelum seduh pertama kali
+        </h2>
+        <ul className="mt-3 list-disc space-y-2 pl-5 text-sm leading-relaxed text-kopi-950">
+          <li>
+            Lakukan <strong>flushing internal</strong>: pasang portafilter tanpa
+            kopi, purge steam wand ±30 detik, lalu alirkan tombol 2-CUP sekitar
+            5 kali sampai air bersih dan tidak berbau.
+          </li>
+          <li>
+            <strong>Jangan pernah</strong> menjalankan mesin dengan tangki
+            kosong — pompa bisa rusak.
+          </li>
+          <li>
+            Sisakan ruang ±3 cm di samping/belakang mesin dan ±15 cm di atasnya.
+          </li>
+        </ul>
+      </section>
+    </div>
+  );
+}

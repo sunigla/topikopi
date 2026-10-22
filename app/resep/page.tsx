@@ -1,1 +1,105 @@
-aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgTGluayBmcm9tICJuZXh0L2xpbmsiOwppbXBvcnQgeyBndWlkZXMgfSBmcm9tICJAL2xpYi9kYXRhIjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJSZXNlcCBEYXNhciDigJQgVG9waUtvcGkiLAogIGRlc2NyaXB0aW9uOgogICAgIlRha2FyYW4gZGFuIHJhc2lvIHN0YW5kYXIgZXNwcmVzc28sIGxhdHRlLCBjYXBwdWNjaW5vLCBkYW4gY29sZCBicmV3IGRhbGFtIHNhdHUgaGFsYW1hbiByaW5na2FzLiIsCn07Cgpjb25zdCBzdGFuZGFyZHMgPSBbCiAgewogICAgbGFiZWw6ICJFa3N0cmFrc2kgZXNwcmVzc28iLAogICAgdmFsdWU6ICIyNeKAkzMwIGRldGlrLCByYXNpbyAxOjIgKGtvcGkgOiBoYXNpbCBzZWR1aCkiLAogIH0sCiAgewogICAgbGFiZWw6ICJUYWthcmFuIGZpbHRlciBMYUhvbWUiLAogICAgdmFsdWU6ICIxIHNlbmRvayB1bnR1ayAxLUNVUCwgMiBzZW5kb2sgdW50dWsgMi1DVVAiLAogIH0sCiAgewogICAgbGFiZWw6ICJTdXN1IHN0ZWFtIiwKICAgIHZhbHVlOiAiwrExMDAgbWwsIGRpbmdpbiDCsTXCsEMsIGRpLXN0ZWFtIHNhbXBhaSDCsTYwwrBDIiwKICB9LAogIHsKICAgIGxhYmVsOiAiTGF0dGUiLAogICAgdmFsdWU6ICJFc3ByZXNzbyA6IHN1c3Ugc3RlYW0gwrExIDogMywgZm9hbSB0aXBpcyIsCiAgfSwKICB7CiAgICBsYWJlbDogIkNhcHB1Y2Npbm8iLAogICAgdmFsdWU6ICIxLzMgZXNwcmVzc28gOiAxLzMgc3VzdSA6IDEvMyBmb2FtIiwKICB9LAogIHsKICAgIGxhYmVsOiAiQ29sZCBicmV3IChmdW5nc2kgbWVzaW4pIiwKICAgIHZhbHVlOiAiRXMgYmF0dSBkaSB0YW5na2kgYWlyLCB0ZWthbiB0b21ib2wgQ29sZCBCcmV3IiwKICB9LAogIHsKICAgIGxhYmVsOiAiVGFtcGluZyIsCiAgICB2YWx1ZTogIlJhdGEgZGFuIHBhZGF0IOKAlCB0ZXJsYWx1IGt1YXQgPSBsYW1iYXQgJiBwYWhpdCwgdGVybGFsdSByaW5nYW4gPSBlbmNlciIsCiAgfSwKICB7CiAgICBsYWJlbDogIkdpbGluZ2FuIiwKICAgIHZhbHVlOiAiSGFsdXMgc3RhbmRhciBlc3ByZXNzbzsgdGVybGFsdSBrYXNhciA9IGVuY2VyLCB0ZXJsYWx1IGhhbHVzID0gbWFtcGV0IiwKICB9LApdOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUmVjaXBlc1BhZ2UoKSB7CiAgcmV0dXJuICgKICAgIDxkaXY+CiAgICAgIDxoZWFkZXIgY2xhc3NOYW1lPSJyb3VuZGVkLTN4bCBiZy1rb3BpLTkwMCBweC02IHB5LTcgdGV4dC1rcmVtLTEwMCBzaGFkb3ctbWQiPgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC00eGwiIGFyaWEtaGlkZGVuPgogICAgICAgICAg8J+TjwogICAgICAgIDwvcD4KICAgICAgICA8aDEgY2xhc3NOYW1lPSJtdC0yIHRleHQtM3hsIGZvbnQtZXh0cmFib2xkIj5SZXNlcCBEYXNhcjwvaDE+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0yIG1heC13LWxnIHRleHQtc20gbGVhZGluZy1yZWxheGVkIHRleHQta3JlbS0yMDAiPgogICAgICAgICAgU2VtdWEgdGFrYXJhbiAmIHJhc2lvIHN0YW5kYXIgZGFsYW0gc2F0dSB0ZW1wYXQg4oCUIHBhdG9rYW4gY2VwYXQKICAgICAgICAgIHNlYmVsdW0gbXVsYWkgbWVueWVkdWguCiAgICAgICAgPC9wPgogICAgICA8L2hlYWRlcj4KCiAgICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0ibXQtNiByb3VuZGVkLTN4bCBiZy13aGl0ZSBwLTYgc2hhZG93LXNtIj4KICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtZXh0cmFib2xkIHRleHQta29waS05MDAiPlN0YW5kYXIgdW11bTwvaDI+CiAgICAgICAgPGRsIGNsYXNzTmFtZT0ibXQtMyBzcGFjZS15LTIuNSI+CiAgICAgICAgICB7c3RhbmRhcmRzLm1hcCgocykgPT4gKAogICAgICAgICAgICA8ZGl2CiAgICAgICAgICAgICAga2V5PXtzLmxhYmVsfQogICAgICAgICAgICAgIGNsYXNzTmFtZT0iZmxleCBmbGV4LWNvbCBnYXAtMC41IGJvcmRlci1iIGJvcmRlci1rcmVtLTIwMCBwYi0yLjUgbGFzdDpib3JkZXItMCBsYXN0OnBiLTAgc206ZmxleC1yb3cgc206aXRlbXMtYmFzZWxpbmUgc206anVzdGlmeS1iZXR3ZWVuIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPGR0IGNsYXNzTmFtZT0idGV4dC1zbSBmb250LWJvbGQgdGV4dC1rb3BpLTcwMCI+e3MubGFiZWx9PC9kdD4KICAgICAgICAgICAgICA8ZGQgY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtc2VtaWJvbGQgc206dGV4dC1yaWdodCI+e3MudmFsdWV9PC9kZD4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApKX0KICAgICAgICA8L2RsPgogICAgICA8L3NlY3Rpb24+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNiBncmlkIGdyaWQtY29scy0xIGdhcC00IHNtOmdyaWQtY29scy0yIj4KICAgICAgICB7Z3VpZGVzLm1hcCgoZykgPT4gKAogICAgICAgICAgPHNlY3Rpb24KICAgICAgICAgICAga2V5PXtnLnNsdWd9CiAgICAgICAgICAgIGNsYXNzTmFtZT0icm91bmRlZC0zeGwgYm9yZGVyIGJvcmRlci1rcmVtLTIwMCBiZy13aGl0ZSBwLTUgc2hhZG93LXNtIgogICAgICAgICAgPgogICAgICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtZXh0cmFib2xkIHRleHQta29waS05MDAiPgogICAgICAgICAgICAgIHtnLmVtb2ppfSB7Zy5uYW1lfQogICAgICAgICAgICA8L2gyPgogICAgICAgICAgICA8ZGwgY2xhc3NOYW1lPSJtdC0zIHNwYWNlLXktMiI+CiAgICAgICAgICAgICAge2cucmVjaXBlLm1hcCgocikgPT4gKAogICAgICAgICAgICAgICAgPGRpdiBrZXk9e3IubGFiZWx9PgogICAgICAgICAgICAgICAgICA8ZHQgY2xhc3NOYW1lPSJ0ZXh0LXhzIGZvbnQtYm9sZCB1cHBlcmNhc2UgdHJhY2tpbmctd2lkZSB0ZXh0LWtvcGktNTAwIj4KICAgICAgICAgICAgICAgICAgICB7ci5sYWJlbH0KICAgICAgICAgICAgICAgICAgPC9kdD4KICAgICAgICAgICAgICAgICAgPGRkIGNsYXNzTmFtZT0idGV4dC1zbSBmb250LXNlbWlib2xkIj57ci52YWx1ZX08L2RkPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDwvZGw+CiAgICAgICAgICAgIDxMaW5rCiAgICAgICAgICAgICAgaHJlZj17YC9wYW5kdWFuLyR7Zy5zbHVnfWB9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJtdC00IGlubGluZS1ibG9jayByb3VuZGVkLWZ1bGwgYmcta29waS05MDAgcHgtNCBweS0yIHRleHQtc20gZm9udC1ib2xkIHRleHQta3JlbS0xMDAgdHJhbnNpdGlvbiBob3ZlcjpiZy1rb3BpLTgwMCIKICAgICAgICAgICAgPgogICAgICAgICAgICAgIElrdXRpIHBhbmR1YW5ueWEg4oaSCiAgICAgICAgICAgIDwvTGluaz4KICAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgICApKX0KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KICApOwp9Cg==
+import type { Metadata } from "next";
+import Link from "next/link";
+import { guides } from "@/lib/data";
+
+export const metadata: Metadata = {
+  title: "Resep Dasar — TopiKopi",
+  description:
+    "Takaran dan rasio standar espresso, latte, cappuccino, dan cold brew dalam satu halaman ringkas.",
+};
+
+const standards = [
+  {
+    label: "Ekstraksi espresso",
+    value: "25–30 detik, rasio 1:2 (kopi : hasil seduh)",
+  },
+  {
+    label: "Takaran filter LaHome",
+    value: "1 sendok untuk 1-CUP, 2 sendok untuk 2-CUP",
+  },
+  {
+    label: "Susu steam",
+    value: "±100 ml, dingin ±5°C, di-steam sampai ±60°C",
+  },
+  {
+    label: "Latte",
+    value: "Espresso : susu steam ±1 : 3, foam tipis",
+  },
+  {
+    label: "Cappuccino",
+    value: "1/3 espresso : 1/3 susu : 1/3 foam",
+  },
+  {
+    label: "Cold brew (fungsi mesin)",
+    value: "Es batu di tangki air, tekan tombol Cold Brew",
+  },
+  {
+    label: "Tamping",
+    value: "Rata dan padat — terlalu kuat = lambat & pahit, terlalu ringan = encer",
+  },
+  {
+    label: "Gilingan",
+    value: "Halus standar espresso; terlalu kasar = encer, terlalu halus = mampet",
+  },
+];
+
+export default function RecipesPage() {
+  return (
+    <div>
+      <header className="rounded-3xl bg-kopi-900 px-6 py-7 text-krem-100 shadow-md">
+        <p className="text-4xl" aria-hidden>
+          📏
+        </p>
+        <h1 className="mt-2 text-3xl font-extrabold">Resep Dasar</h1>
+        <p className="mt-2 max-w-lg text-sm leading-relaxed text-krem-200">
+          Semua takaran & rasio standar dalam satu tempat — patokan cepat
+          sebelum mulai menyeduh.
+        </p>
+      </header>
+
+      <section className="mt-6 rounded-3xl bg-white p-6 shadow-sm">
+        <h2 className="text-lg font-extrabold text-kopi-900">Standar umum</h2>
+        <dl className="mt-3 space-y-2.5">
+          {standards.map((s) => (
+            <div
+              key={s.label}
+              className="flex flex-col gap-0.5 border-b border-krem-200 pb-2.5 last:border-0 last:pb-0 sm:flex-row sm:items-baseline sm:justify-between"
+            >
+              <dt className="text-sm font-bold text-kopi-700">{s.label}</dt>
+              <dd className="text-sm font-semibold sm:text-right">{s.value}</dd>
+            </div>
+          ))}
+        </dl>
+      </section>
+
+      <div className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2">
+        {guides.map((g) => (
+          <section
+            key={g.slug}
+            className="rounded-3xl border border-krem-200 bg-white p-5 shadow-sm"
+          >
+            <h2 className="text-lg font-extrabold text-kopi-900">
+              {g.emoji} {g.name}
+            </h2>
+            <dl className="mt-3 space-y-2">
+              {g.recipe.map((r) => (
+                <div key={r.label}>
+                  <dt className="text-xs font-bold uppercase tracking-wide text-kopi-500">
+                    {r.label}
+                  </dt>
+                  <dd className="text-sm font-semibold">{r.value}</dd>
+                </div>
+              ))}
+            </dl>
+            <Link
+              href={`/panduan/${g.slug}`}
+              className="mt-4 inline-block rounded-full bg-kopi-900 px-4 py-2 text-sm font-bold text-krem-100 transition hover:bg-kopi-800"
+            >
+              Ikuti panduannya →
+            </Link>
+          </section>
+        ))}
+      </div>
+    </div>
+  );
+}

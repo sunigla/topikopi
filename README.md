@@ -1,1 +1,86 @@
-IyBUb3BpS29waSDimJXwn46pCgoqKlRvcGlLb3BpKiog4oCUICpUb3BpayBLb3BpKjogYXNpc3RlbiBzZWR1aCBrb3BpIHB1YmxpayBiZXJiYXNpcyB3ZWIuIFBlbmd1bmp1bmcKZGl0dW50dW4gc2VkdWggKipzZWxhbmdrYWggZGVtaSBzZWxhbmdrYWgqKiBkZW5nYW4gdGltZXIgYmF3YWFuLCBhd2FsbnlhIGRpc3VzdW4KdW50dWsgbWVzaW4gZXNwcmVzc28gKipMYUhvbWUgNS1pbi0xKiogKDIwIGJhciwgc3RlYW0gd2FuZCwgdGFuZ2tpIDEsOCBMKSDigJQKcHJpbnNpcG55YSBiZXJsYWt1IHVtdW0gdW50dWsgbWVzaW4gZXNwcmVzc28gcnVtYWhhbiBzZWplbmlzLgoKU2VsdXJ1aCBhbnRhcm11a2EgYmVyYmFoYXNhIEluZG9uZXNpYSBkYW4gZGlyYW5jYW5nICptb2JpbGUtZmlyc3QqICh0YXJnZXQKdXRhbWE6IGRpYnVrYSBkYXJpIEhQKS4KCiMjIEZpdHVyCgotICoqQmVyYW5kYSoqIOKAlCBwaWxpaGFuIDQgcGFuZHVhbiBtaW51bWFuICsgcGludHUgbWFzdWsga2UgRG9rdGVyIEtvcGksCiAgUmVzZXAgRGFzYXIsIGRhbiBDYXRhdGFuIFNheWEsIHBsdXMgcmluZ2thc2FuIHBlcnNpYXBhbi9mbHVzaGluZyBtZXNpbi4KLSAqKlBhbmR1YW4gc2VkdWggaW50ZXJha3RpZioqIOKAlCBFc3ByZXNzbywgTGF0dGUsIENhcHB1Y2Npbm8sIENvbGQgQnJldy4KICBUaWFwIHBhbmR1YW4gYmVyaXNpIGJhaGFuICYgdGFrYXJhbiwga2FydHUgcmVzZXAgZGFzYXIsIGxhbHUgbW9kZQogIGxhbmdrYWgtZGVtaS1sYW5na2FoIChzYXR1IGxhbmdrYWggYmVzYXIgcGVyIGxheWFyLCB0b21ib2wKICBTZWJlbHVtbnlhL0JlcmlrdXRueWEsIGluZGlrYXRvciBwcm9ncmVzKS4gTGFuZ2thaCB5YW5nIGJ1dHVoIHdha3R1IHB1bnlhCiAgKip0aW1lciBoaXR1bmcgbXVuZHVyKiogKG11bGFpL2plZGEvcmVzZXQgKyBidW55aSBwZW5hbmRhIHNlbGVzYWkpOgogIGVrc3RyYWtzaSBlc3ByZXNzbyAyNyBkZXRpayAodGFyZ2V0IDI14oCTMzAgZGV0aWssIHJhc2lvIDE6MiksIHB1cmdlIHN0ZWFtCiAgNSBkZXRpaywgc3RlYW0gc3VzdSDCsTQ14oCTNTAgZGV0aWsgKHBhdG9rYW4gYWtoaXIgc3VodSDCsTYwwrBDKSwgZGFuIHBlcmtpcmFhbgogIGVrc3RyYWtzaSBkaW5naW4gY29sZCBicmV3IDEwIG1lbml0LgotICoqRG9rdGVyIEtvcGkqKiDwn6m6IOKAlCBkaWFnbm9zaXMgaW50ZXJha3RpZiBiZXJiZW50dWsgcG9ob24ga2VwdXR1c2FuOgogIHBpbGloIGtlbHVoYW4gKHRlcmxhbHUgYXNhbSwgdGVybGFsdSBwYWhpdCwgZW5jZXIvaGFtYmFyLCBjcmVtYSB0aXBpcywKICBzdXN1IHRpZGFrIGZvYW0sIGFsaXJhbiB0ZXJsYWx1IGNlcGF0LCBhbGlyYW4gdGVybGFsdSBsYW1iYXQvdGlkYWsga2VsdWFyKSwKICBqYXdhYiAx4oCTMiBwZXJ0YW55YWFuIGxhbmp1dGFuLCBsYWx1IGRhcGF0a2FuIGRpYWdub3NpcyBwZW55ZWJhYiArIHNhcmFuCiAgcGVyYmFpa2FuIGtvbmtyZXQuCi0gKipSZXNlcCBEYXNhcioqIPCfk48g4oCUIHRha2FyYW4gJiByYXNpbyBzdGFuZGFyIHNlbXVhIG1pbnVtYW4gZGFsYW0gc2F0dQogIGhhbGFtYW4gcmluZ2thcy4KLSAqKkNhdGF0YW4gU2F5YSoqIPCfk5Mg4oCUIGp1cm5hbCBzZWR1aCBwcmliYWRpICh0YW5nZ2FsLCBtaW51bWFuLCBiaWppLAogIHBlbmlsYWlhbiByYXNhIDHigJM1LCBjYXRhdGFuKSB5YW5nIHRlcnNpbXBhbiBkaSAqKmxvY2FsU3RvcmFnZSBicm93c2VyKiog4oCUCiAgaGFueWEgZGkgcGVyYW5na2F0IG1hc2luZy1tYXNpbmcgcGVuZ3VuanVuZywgdGFucGEgYWt1biBkYW4gdGFucGEgc2VydmVyLgoKS29udGVuIHBhbmR1YW4gbWVuZ2lrdXRpIGRva3VtZW4gKlBhbmR1YW4gU2VkdWggUGVydGFtYSDigJQgTGFIb21lIDUtaW4tMSoKKHRha2FyYW4gMeKAkzIgc2VuZG9rIHBlciBmaWx0ZXIsIHN1c3UgwrExMDAgbWwgcGFkYSDCsTXCsEMgZGktc3RlYW0gc2FtcGFpCsKxNjDCsEMsIGNvbGQgYnJldyBkZW5nYW4gZXMgYmF0dSBkaSB0YW5na2ksIGxhbmdrYWggdHJvdWJsZXNob290aW5nIHJlc21pKSwKZGl0YW1iYWggc3RhbmRhciB1bXVtIGVzcHJlc3NvIChla3N0cmFrc2kgMjXigJMzMCBkZXRpaywgcmFzaW8gMToyLCBrb21wb3Npc2kKY2FwcHVjY2lubyAxLzPigJMxLzPigJMxLzMpLgoKIyMgVGVrbm9sb2dpCgotIE5leHQuanMgMTUgKEFwcCBSb3V0ZXIpICsgUmVhY3QgMTkgKyBUeXBlU2NyaXB0Ci0gVGFpbHdpbmQgQ1NTIHY0ICh0ZW1hIHdhcm5hIGtvcGk6IGNva2VsYXQgdHVhLCBrcmVtLCBvcmFueWUgYmFrYXIpCi0gVGFucGEgZGF0YWJhc2UvYmFja2VuZCDigJQga29udGVuIHN0YXRpcyBkaSBgbGliL2RhdGEudHNgLCBjYXRhdGFuIHByaWJhZGkKICBkaSBsb2NhbFN0b3JhZ2UKCiMjIE1lbmphbGFua2FuIHNlY2FyYSBsb2thbAoKYGBgYmFzaApucG0gaW5zdGFsbApucG0gcnVuIGRldgpgYGAKCkxhbHUgYnVrYSBodHRwOi8vbG9jYWxob3N0OjMwMDAuCgpQZXJpbnRhaCBsYWluOgoKYGBgYmFzaApucG0gcnVuIGJ1aWxkICAgIyBidWlsZCBwcm9kdWtzaQpucG0gcnVuIHN0YXJ0ICAgIyBqYWxhbmthbiBoYXNpbCBidWlsZApgYGAKCiMjIFN0cnVrdHVyIHJvdXRlCgp8IFJvdXRlIHwgSXNpIHwKfCAtLS0gfCAtLS0gfAp8IGAvYCB8IEJlcmFuZGEgfAp8IGAvcGFuZHVhbi9lc3ByZXNzb2AgfCBQYW5kdWFuIGludGVyYWt0aWYgRXNwcmVzc28gfAp8IGAvcGFuZHVhbi9sYXR0ZWAgfCBQYW5kdWFuIGludGVyYWt0aWYgTGF0dGUgfAp8IGAvcGFuZHVhbi9jYXBwdWNjaW5vYCB8IFBhbmR1YW4gaW50ZXJha3RpZiBDYXBwdWNjaW5vIHwKfCBgL3BhbmR1YW4vY29sZC1icmV3YCB8IFBhbmR1YW4gaW50ZXJha3RpZiBDb2xkIEJyZXcgfAp8IGAvZG9rdGVyYCB8IERva3RlciBLb3BpIChkaWFnbm9zaXMgaW50ZXJha3RpZikgfAp8IGAvcmVzZXBgIHwgUmVzZXAgRGFzYXIgKHRha2FyYW4gJiByYXNpbykgfAp8IGAvY2F0YXRhbmAgfCBDYXRhdGFuIFNheWEgKGxvY2FsU3RvcmFnZSkgfAoKIyMgUmVuY2FuYSBkZXBsb3kKCjEuIFB1c2ggcmVwbyBpbmkga2UgR2l0SHViIChha3VuIGBzdW5pZ2xhYCwgcmVwbyBgdG9waWtvcGlgKS4KMi4gRGkgW1ZlcmNlbF0oaHR0cHM6Ly92ZXJjZWwuY29tKSwgKkltcG9ydCBQcm9qZWN0KiBkYXJpIHJlcG8gdGVyc2VidXQg4oCUCiAgIE5leHQuanMgdGVyZGV0ZWtzaSBvdG9tYXRpcywgdGFucGEga29uZmlndXJhc2kga2h1c3VzIChidWlsZCBjb21tYW5kCiAgIGBuZXh0IGJ1aWxkYCBiYXdhYW4pLiBTZXRpYXAgcHVzaCBrZSBicmFuY2ggYG1haW5gIGFrYW4gbWVuLWRlcGxveQogICB1bGFuZyBzZWNhcmEgb3RvbWF0aXMuCjMuIFNldGVsYWggc2l0dXMgbGl2ZSBkaSBhbGFtYXQgYCoudmVyY2VsLmFwcGAsIGJlbGkgZG9tYWluICoqdG9waWtvcGkuaWQqKgogICAoc2FhdCB0ZXJha2hpciBkaWNlaywgMjIgT2t0IDIwMjYsIG1hc2loIHRlcnNlZGlhKSBsYWx1IHNhbWJ1bmdrYW4KICAgc2ViYWdhaSAqY3VzdG9tIGRvbWFpbiogZGkgcGVuZ2F0dXJhbiBWZXJjZWwg4oCUIFZlcmNlbCBha2FuIG1lbWJlcmkKICAgY2F0YXRhbiBETlMgeWFuZyBwZXJsdSBkaXBhc2FuZyBkaSByZWdpc3RyYXIuCg==
+# TopiKopi ☕🎩
+
+**TopiKopi** — *Topik Kopi*: asisten seduh kopi publik berbasis web. Pengunjung
+dituntun seduh **selangkah demi selangkah** dengan timer bawaan, awalnya disusun
+untuk mesin espresso **LaHome 5-in-1** (20 bar, steam wand, tangki 1,8 L) —
+prinsipnya berlaku umum untuk mesin espresso rumahan sejenis.
+
+Seluruh antarmuka berbahasa Indonesia dan dirancang *mobile-first* (target
+utama: dibuka dari HP).
+
+## Fitur
+
+- **Beranda** — pilihan 4 panduan minuman + pintu masuk ke Dokter Kopi,
+  Resep Dasar, dan Catatan Saya, plus ringkasan persiapan/flushing mesin.
+- **Panduan seduh interaktif** — Espresso, Latte, Cappuccino, Cold Brew.
+  Tiap panduan berisi bahan & takaran, kartu resep dasar, lalu mode
+  langkah-demi-langkah (satu langkah besar per layar, tombol
+  Sebelumnya/Berikutnya, indikator progres). Langkah yang butuh waktu punya
+  **timer hitung mundur** (mulai/jeda/reset + bunyi penanda selesai):
+  ekstraksi espresso 27 detik (target 25–30 detik, rasio 1:2), purge steam
+  5 detik, steam susu ±45–50 detik (patokan akhir suhu ±60°C), dan perkiraan
+  ekstraksi dingin cold brew 10 menit.
+- **Dokter Kopi** 🩺 — diagnosis interaktif berbentuk pohon keputusan:
+  pilih keluhan (terlalu asam, terlalu pahit, encer/hambar, crema tipis,
+  susu tidak foam, aliran terlalu cepat, aliran terlalu lambat/tidak keluar),
+  jawab 1–2 pertanyaan lanjutan, lalu dapatkan diagnosis penyebab + saran
+  perbaikan konkret.
+- **Resep Dasar** 📏 — takaran & rasio standar semua minuman dalam satu
+  halaman ringkas.
+- **Catatan Saya** 📓 — jurnal seduh pribadi (tanggal, minuman, biji,
+  penilaian rasa 1–5, catatan) yang tersimpan di **localStorage browser** —
+  hanya di perangkat masing-masing pengunjung, tanpa akun dan tanpa server.
+
+Konten panduan mengikuti dokumen *Panduan Seduh Pertama — LaHome 5-in-1*
+(takaran 1–2 sendok per filter, susu ±100 ml pada ±5°C di-steam sampai
+±60°C, cold brew dengan es batu di tangki, langkah troubleshooting resmi),
+ditambah standar umum espresso (ekstraksi 25–30 detik, rasio 1:2, komposisi
+cappuccino 1/3–1/3–1/3).
+
+## Teknologi
+
+- Next.js 15 (App Router) + React 19 + TypeScript
+- Tailwind CSS v4 (tema warna kopi: cokelat tua, krem, oranye bakar)
+- Tanpa database/backend — konten statis di `lib/data.ts`, catatan pribadi
+  di localStorage
+
+## Menjalankan secara lokal
+
+```bash
+npm install
+npm run dev
+```
+
+Lalu buka http://localhost:3000.
+
+Perintah lain:
+
+```bash
+npm run build   # build produksi
+npm run start   # jalankan hasil build
+```
+
+## Struktur route
+
+| Route | Isi |
+| --- | --- |
+| `/` | Beranda |
+| `/panduan/espresso` | Panduan interaktif Espresso |
+| `/panduan/latte` | Panduan interaktif Latte |
+| `/panduan/cappuccino` | Panduan interaktif Cappuccino |
+| `/panduan/cold-brew` | Panduan interaktif Cold Brew |
+| `/dokter` | Dokter Kopi (diagnosis interaktif) |
+| `/resep` | Resep Dasar (takaran & rasio) |
+| `/catatan` | Catatan Saya (localStorage) |
+
+## Rencana deploy
+
+1. Push repo ini ke GitHub (akun `sunigla`, repo `topikopi`).
+2. Di [Vercel](https://vercel.com), *Import Project* dari repo tersebut —
+   Next.js terdeteksi otomatis, tanpa konfigurasi khusus (build command
+   `next build` bawaan). Setiap push ke branch `main` akan men-deploy
+   ulang secara otomatis.
+3. Setelah situs live di alamat `*.vercel.app`, beli domain **topikopi.id**
+   (saat terakhir dicek, 22 Okt 2026, masih tersedia) lalu sambungkan
+   sebagai *custom domain* di pengaturan Vercel — Vercel akan memberi
+   catatan DNS yang perlu dipasang di registrar.

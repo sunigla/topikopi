@@ -1,1 +1,5 @@
-ZXhwb3J0IGRlZmF1bHQgewogIHBsdWdpbnM6IHsKICAgICJAdGFpbHdpbmRjc3MvcG9zdGNzcyI6IHt9LAogIH0sCn07Cg==
+export default {
+  plugins: {
+    "@tailwindcss/postcss": {},
+  },
+};

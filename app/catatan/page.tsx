@@ -1,1 +1,33 @@
-aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgTm90ZXNBcHAgZnJvbSAiQC9jb21wb25lbnRzL05vdGVzQXBwIjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJDYXRhdGFuIFNheWEg4oCUIFRvcGlLb3BpIiwKICBkZXNjcmlwdGlvbjoKICAgICJDYXRhdGFuIHNlZHVoIHByaWJhZGk6IHRhbmdnYWwsIG1pbnVtYW4sIGJpamksIHBlbmlsYWlhbiByYXNhLCBkYW4gY2F0YXRhbiDigJQgdGVyc2ltcGFuIGhhbnlhIGRpIHBlcmFuZ2thdCBpbmkuIiwKfTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIE5vdGVzUGFnZSgpIHsKICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgPGhlYWRlciBjbGFzc05hbWU9InJvdW5kZWQtM3hsIGJnLWtvcGktODAwIHB4LTYgcHktNyB0ZXh0LWtyZW0tMTAwIHNoYWRvdy1tZCI+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJ0ZXh0LTR4bCIgYXJpYS1oaWRkZW4+CiAgICAgICAgICDwn5OTCiAgICAgICAgPC9wPgogICAgICAgIDxoMSBjbGFzc05hbWU9Im10LTIgdGV4dC0zeGwgZm9udC1leHRyYWJvbGQiPkNhdGF0YW4gU2F5YTwvaDE+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0yIG1heC13LWxnIHRleHQtc20gbGVhZGluZy1yZWxheGVkIHRleHQta3JlbS0yMDAiPgogICAgICAgICAgSnVybmFsIHNlZHVoIHNlZGVyaGFuYSB1bnR1ayBtZW5naW5nYXQgZ2VsYXMgeWFuZyBlbmFrIChkYW4geWFuZwogICAgICAgICAgZ2FnYWwpLiBCaWppIGFwYSwgbWludW1hbiBhcGEsIG5pbGFpbnlhIGJlcmFwYSDigJQgYmVzb2stYmVzb2sgdGluZ2dhbAogICAgICAgICAgbWVuaXJ1IHlhbmcgdGVyYmFpay4KICAgICAgICA8L3A+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0zIGlubGluZS1ibG9jayByb3VuZGVkLWZ1bGwgYmcta29waS05NTAvNjAgcHgtMyBweS0xLjUgdGV4dC14cyBmb250LWJvbGQgdGV4dC1rcmVtLTIwMCI+CiAgICAgICAgICDwn5SSIENhdGF0YW4gdGVyc2ltcGFuIGhhbnlhIGRpIHBlcmFuZ2thdCBpbmkgKGJyb3dzZXIpLCB0aWRhayBkaWtpcmltCiAgICAgICAgICBrZSBzZXJ2ZXIgZGFuIHRpZGFrIGRpYmFnaWthbiBrZSBzaWFwYSBwdW4uCiAgICAgICAgPC9wPgogICAgICA8L2hlYWRlcj4KICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTYiPgogICAgICAgIDxOb3Rlc0FwcCAvPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K
+import type { Metadata } from "next";
+import NotesApp from "@/components/NotesApp";
+
+export const metadata: Metadata = {
+  title: "Catatan Saya — TopiKopi",
+  description:
+    "Catatan seduh pribadi: tanggal, minuman, biji, penilaian rasa, dan catatan — tersimpan hanya di perangkat ini.",
+};
+
+export default function NotesPage() {
+  return (
+    <div>
+      <header className="rounded-3xl bg-kopi-800 px-6 py-7 text-krem-100 shadow-md">
+        <p className="text-4xl" aria-hidden>
+          📓
+        </p>
+        <h1 className="mt-2 text-3xl font-extrabold">Catatan Saya</h1>
+        <p className="mt-2 max-w-lg text-sm leading-relaxed text-krem-200">
+          Jurnal seduh sederhana untuk mengingat gelas yang enak (dan yang
+          gagal). Biji apa, minuman apa, nilainya berapa — besok-besok tinggal
+          meniru yang terbaik.
+        </p>
+        <p className="mt-3 inline-block rounded-full bg-kopi-950/60 px-3 py-1.5 text-xs font-bold text-krem-200">
+          🔒 Catatan tersimpan hanya di perangkat ini (browser), tidak dikirim
+          ke server dan tidak dibagikan ke siapa pun.
+        </p>
+      </header>
+      <div className="mt-6">
+        <NotesApp />
+      </div>
+    </div>
+  );
+}

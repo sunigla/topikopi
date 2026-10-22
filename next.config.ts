@@ -1,1 +1,9 @@
-aW1wb3J0IHR5cGUgeyBOZXh0Q29uZmlnIH0gZnJvbSAibmV4dCI7Cgpjb25zdCBuZXh0Q29uZmlnOiBOZXh0Q29uZmlnID0gewogIC8vIERpYW1rYW4gcGVyaW5nYXRhbiAibXVsdGlwbGUgbG9ja2ZpbGVzIiBiaWxhIGFkYSBwYWNrYWdlLWxvY2suanNvbgogIC8vIGxhaW4gZGkgZm9sZGVyIGluZHVrIHdvcmtzcGFjZTsgcm9vdCB0cmFjaW5nIHRldGFwIGRpIGZvbGRlciBwcm9qZWN0IGluaS4KICBvdXRwdXRGaWxlVHJhY2luZ1Jvb3Q6IHByb2Nlc3MuY3dkKCksCn07CgpleHBvcnQgZGVmYXVsdCBuZXh0Q29uZmlnOwo=
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  // Diamkan peringatan "multiple lockfiles" bila ada package-lock.json
+  // lain di folder induk workspace; root tracing tetap di folder project ini.
+  outputFileTracingRoot: process.cwd(),
+};
+
+export default nextConfig;

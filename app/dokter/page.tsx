@@ -1,1 +1,30 @@
-aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgRG9jdG9yV2l6YXJkIGZyb20gIkAvY29tcG9uZW50cy9Eb2N0b3JXaXphcmQiOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhOiBNZXRhZGF0YSA9IHsKICB0aXRsZTogIkRva3RlciBLb3BpIOKAlCBUb3BpS29waSIsCiAgZGVzY3JpcHRpb246CiAgICAiRGlhZ25vc2lzIGludGVyYWt0aWYgbWFzYWxhaCBzZWR1aDoga29waSBhc2FtLCBwYWhpdCwgZW5jZXIsIGNyZW1hIHRpcGlzLCBzdXN1IHRpZGFrIGZvYW0sIGFsaXJhbiB0ZXJsYWx1IGNlcGF0IGF0YXUgbGFtYmF0IOKAlCBwbHVzIHNhcmFuIHBlcmJhaWthbm55YS4iLAp9OwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gRG9jdG9yUGFnZSgpIHsKICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgPGhlYWRlciBjbGFzc05hbWU9InJvdW5kZWQtM3hsIGJnLWJha2FyLTUwMCBweC02IHB5LTcgdGV4dC13aGl0ZSBzaGFkb3ctbWQiPgogICAgICAgIDxwIGNsYXNzTmFtZT0idGV4dC00eGwiIGFyaWEtaGlkZGVuPgogICAgICAgICAg8J+pugogICAgICAgIDwvcD4KICAgICAgICA8aDEgY2xhc3NOYW1lPSJtdC0yIHRleHQtM3hsIGZvbnQtZXh0cmFib2xkIj5Eb2t0ZXIgS29waTwvaDE+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0yIG1heC13LWxnIHRleHQtc20gbGVhZGluZy1yZWxheGVkIHRleHQtd2hpdGUvOTAiPgogICAgICAgICAgR2VsYXMgdGVyYWtoaXIga3VyYW5nIHBhcz8gQ2VyaXRha2FuIGtlbHVoYW5ueWEg4oCUIERva3RlciBLb3BpCiAgICAgICAgICBiZXJ0YW55YSAx4oCTMiBoYWwgc2luZ2thdCwgbGFsdSBtZW1iZXJpIGRpYWdub3NpcyBwZW55ZWJhYiBkYW4gc2FyYW4KICAgICAgICAgIHBlcmJhaWthbiBrb25rcmV0IGJlcmRhc2Fya2FuIHBhbmR1YW4gbWVzaW4gTGFIb21lIDUtaW4tMSBkYW4gc3RhbmRhcgogICAgICAgICAgZXNwcmVzc28gdW11bS4KICAgICAgICA8L3A+CiAgICAgIDwvaGVhZGVyPgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNiI+CiAgICAgICAgPERvY3RvcldpemFyZCAvPgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K
+import type { Metadata } from "next";
+import DoctorWizard from "@/components/DoctorWizard";
+
+export const metadata: Metadata = {
+  title: "Dokter Kopi — TopiKopi",
+  description:
+    "Diagnosis interaktif masalah seduh: kopi asam, pahit, encer, crema tipis, susu tidak foam, aliran terlalu cepat atau lambat — plus saran perbaikannya.",
+};
+
+export default function DoctorPage() {
+  return (
+    <div>
+      <header className="rounded-3xl bg-bakar-500 px-6 py-7 text-white shadow-md">
+        <p className="text-4xl" aria-hidden>
+          🩺
+        </p>
+        <h1 className="mt-2 text-3xl font-extrabold">Dokter Kopi</h1>
+        <p className="mt-2 max-w-lg text-sm leading-relaxed text-white/90">
+          Gelas terakhir kurang pas? Ceritakan keluhannya — Dokter Kopi
+          bertanya 1–2 hal singkat, lalu memberi diagnosis penyebab dan saran
+          perbaikan konkret berdasarkan panduan mesin LaHome 5-in-1 dan standar
+          espresso umum.
+        </p>
+      </header>
+      <div className="mt-6">
+        <DoctorWizard />
+      </div>
+    </div>
+  );
+}

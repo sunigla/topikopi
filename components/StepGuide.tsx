@@ -1,1 +1,89 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB0eXBlIHsgR3VpZGUgfSBmcm9tICJAL2xpYi9kYXRhIjsKaW1wb3J0IFRpbWVyIGZyb20gIi4vVGltZXIiOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gU3RlcEd1aWRlKHsgZ3VpZGUgfTogeyBndWlkZTogR3VpZGUgfSkgewogIGNvbnN0IFtpZHgsIHNldElkeF0gPSB1c2VTdGF0ZSgwKTsKICBjb25zdCB0b3RhbCA9IGd1aWRlLnN0ZXBzLmxlbmd0aDsKICBjb25zdCBzdGVwID0gZ3VpZGUuc3RlcHNbaWR4XTsKICBjb25zdCBpc0ZpcnN0ID0gaWR4ID09PSAwOwogIGNvbnN0IGlzTGFzdCA9IGlkeCA9PT0gdG90YWwgLSAxOwoKICByZXR1cm4gKAogICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJtdC02Ij4KICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTMgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIHRleHQtc20gZm9udC1zZW1pYm9sZCB0ZXh0LWtvcGktNzAwIj4KICAgICAgICA8c3Bhbj4KICAgICAgICAgIExhbmdrYWgge2lkeCArIDF9IGRhcmkge3RvdGFsfQogICAgICAgIDwvc3Bhbj4KICAgICAgICA8c3Bhbj57TWF0aC5yb3VuZCgoKGlkeCArIDEpIC8gdG90YWwpICogMTAwKX0lPC9zcGFuPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9Im1iLTUgaC0yLjUgdy1mdWxsIG92ZXJmbG93LWhpZGRlbiByb3VuZGVkLWZ1bGwgYmcta3JlbS0yMDAiPgogICAgICAgIDxkaXYKICAgICAgICAgIGNsYXNzTmFtZT0iaC1mdWxsIHJvdW5kZWQtZnVsbCBiZy1iYWthci01MDAgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMzAwIgogICAgICAgICAgc3R5bGU9e3sgd2lkdGg6IGAkeygoaWR4ICsgMSkgLyB0b3RhbCkgKiAxMDB9JWAgfX0KICAgICAgICAvPgogICAgICA8L2Rpdj4KCiAgICAgIDxkaXYKICAgICAgICBrZXk9e2lkeH0KICAgICAgICBjbGFzc05hbWU9InJvdW5kZWQtM3hsIGJvcmRlciBib3JkZXIta3JlbS0yMDAgYmctd2hpdGUgcC02IHNoYWRvdy1zbSIKICAgICAgPgogICAgICAgIDxoMiBjbGFzc05hbWU9InRleHQtMnhsIGZvbnQtZXh0cmFib2xkIGxlYWRpbmctc251ZyB0ZXh0LWtvcGktOTAwIj4KICAgICAgICAgIHtzdGVwLnRpdGxlfQogICAgICAgIDwvaDI+CiAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0zIHRleHQtYmFzZSBsZWFkaW5nLXJlbGF4ZWQgdGV4dC1rb3BpLTk1MCBzbTp0ZXh0LWxnIj4KICAgICAgICAgIHtzdGVwLmJvZHl9CiAgICAgICAgPC9wPgogICAgICAgIHtzdGVwLnRpbWVyU2Vjb25kcyA/ICgKICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJtdC01Ij4KICAgICAgICAgICAgPFRpbWVyIHNlY29uZHM9e3N0ZXAudGltZXJTZWNvbmRzfSBsYWJlbD17c3RlcC50aW1lckxhYmVsfSAvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKSA6IG51bGx9CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTUgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1iZXR3ZWVuIGdhcC0zIj4KICAgICAgICA8YnV0dG9uCiAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICBkaXNhYmxlZD17aXNGaXJzdH0KICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldElkeCgoaSkgPT4gTWF0aC5tYXgoMCwgaSAtIDEpKX0KICAgICAgICAgIGNsYXNzTmFtZT0icm91bmRlZC1mdWxsIGJvcmRlci0yIGJvcmRlci1rb3BpLTgwMCBweC01IHB5LTIuNSBmb250LWJvbGQgdGV4dC1rb3BpLTgwMCB0cmFuc2l0aW9uIGVuYWJsZWQ6aG92ZXI6Ymcta3JlbS0yMDAgZGlzYWJsZWQ6b3BhY2l0eS0zMCIKICAgICAgICA+CiAgICAgICAgICDihpAgU2ViZWx1bW55YQogICAgICAgIDwvYnV0dG9uPgogICAgICAgIHshaXNMYXN0ID8gKAogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldElkeCgoaSkgPT4gTWF0aC5taW4odG90YWwgLSAxLCBpICsgMSkpfQogICAgICAgICAgICBjbGFzc05hbWU9InJvdW5kZWQtZnVsbCBiZy1rb3BpLTkwMCBweC02IHB5LTIuNSBmb250LWJvbGQgdGV4dC1rcmVtLTEwMCB0cmFuc2l0aW9uIGhvdmVyOmJnLWtvcGktODAwIgogICAgICAgICAgPgogICAgICAgICAgICBCZXJpa3V0bnlhIOKGkgogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgKSA6ICgKICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0icm91bmRlZC1mdWxsIGJnLWJha2FyLTUwMCBweC02IHB5LTIuNSBmb250LWJvbGQgdGV4dC13aGl0ZSI+CiAgICAgICAgICAgIPCfjokgU2VsZXNhaSDigJQgc2VsYW1hdCBtZW5pa21hdGkhCiAgICAgICAgICA8L3NwYW4+CiAgICAgICAgKX0KICAgICAgPC9kaXY+CgogICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNSBmbGV4IGZsZXgtd3JhcCBqdXN0aWZ5LWNlbnRlciBnYXAtMS41Ij4KICAgICAgICB7Z3VpZGUuc3RlcHMubWFwKChzLCBpKSA9PiAoCiAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgIGtleT17cy50aXRsZX0KICAgICAgICAgICAgdHlwZT0iYnV0dG9uIgogICAgICAgICAgICBhcmlhLWxhYmVsPXtgS2UgbGFuZ2thaCAke2kgKyAxfTogJHtzLnRpdGxlfWB9CiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldElkeChpKX0KICAgICAgICAgICAgY2xhc3NOYW1lPXtgaC0yLjUgcm91bmRlZC1mdWxsIHRyYW5zaXRpb24tYWxsICR7CiAgICAgICAgICAgICAgaSA9PT0gaWR4CiAgICAgICAgICAgICAgICA/ICJ3LTcgYmctYmFrYXItNTAwIgogICAgICAgICAgICAgICAgOiBpIDwgaWR4CiAgICAgICAgICAgICAgICAgID8gInctMi41IGJnLWtvcGktNTAwIgogICAgICAgICAgICAgICAgICA6ICJ3LTIuNSBiZy1rcmVtLTMwMCIKICAgICAgICAgICAgfWB9CiAgICAgICAgICAvPgogICAgICAgICkpfQogICAgICA8L2Rpdj4KICAgIDwvc2VjdGlvbj4KICApOwp9Cg==
+"use client";
+
+import { useState } from "react";
+import type { Guide } from "@/lib/data";
+import Timer from "./Timer";
+
+export default function StepGuide({ guide }: { guide: Guide }) {
+  const [idx, setIdx] = useState(0);
+  const total = guide.steps.length;
+  const step = guide.steps[idx];
+  const isFirst = idx === 0;
+  const isLast = idx === total - 1;
+
+  return (
+    <section className="mt-6">
+      <div className="mb-3 flex items-center justify-between text-sm font-semibold text-kopi-700">
+        <span>
+          Langkah {idx + 1} dari {total}
+        </span>
+        <span>{Math.round(((idx + 1) / total) * 100)}%</span>
+      </div>
+      <div className="mb-5 h-2.5 w-full overflow-hidden rounded-full bg-krem-200">
+        <div
+          className="h-full rounded-full bg-bakar-500 transition-all duration-300"
+          style={{ width: `${((idx + 1) / total) * 100}%` }}
+        />
+      </div>
+
+      <div
+        key={idx}
+        className="rounded-3xl border border-krem-200 bg-white p-6 shadow-sm"
+      >
+        <h2 className="text-2xl font-extrabold leading-snug text-kopi-900">
+          {step.title}
+        </h2>
+        <p className="mt-3 text-base leading-relaxed text-kopi-950 sm:text-lg">
+          {step.body}
+        </p>
+        {step.timerSeconds ? (
+          <div className="mt-5">
+            <Timer seconds={step.timerSeconds} label={step.timerLabel} />
+          </div>
+        ) : null}
+      </div>
+
+      <div className="mt-5 flex items-center justify-between gap-3">
+        <button
+          type="button"
+          disabled={isFirst}
+          onClick={() => setIdx((i) => Math.max(0, i - 1))}
+          className="rounded-full border-2 border-kopi-800 px-5 py-2.5 font-bold text-kopi-800 transition enabled:hover:bg-krem-200 disabled:opacity-30"
+        >
+          ← Sebelumnya
+        </button>
+        {!isLast ? (
+          <button
+            type="button"
+            onClick={() => setIdx((i) => Math.min(total - 1, i + 1))}
+            className="rounded-full bg-kopi-900 px-6 py-2.5 font-bold text-krem-100 transition hover:bg-kopi-800"
+          >
+            Berikutnya →
+          </button>
+        ) : (
+          <span className="rounded-full bg-bakar-500 px-6 py-2.5 font-bold text-white">
+            🎉 Selesai — selamat menikmati!
+          </span>
+        )}
+      </div>
+
+      <div className="mt-5 flex flex-wrap justify-center gap-1.5">
+        {guide.steps.map((s, i) => (
+          <button
+            key={s.title}
+            type="button"
+            aria-label={`Ke langkah ${i + 1}: ${s.title}`}
+            onClick={() => setIdx(i)}
+            className={`h-2.5 rounded-full transition-all ${
+              i === idx
+                ? "w-7 bg-bakar-500"
+                : i < idx
+                  ? "w-2.5 bg-kopi-500"
+                  : "w-2.5 bg-krem-300"
+            }`}
+          />
+        ))}
+      </div>
+    </section>
+  );
+}

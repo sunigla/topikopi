@@ -1,1 +1,135 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VSZWYsIHVzZVN0YXRlIH0gZnJvbSAicmVhY3QiOwoKZnVuY3Rpb24gZm9ybWF0KHRvdGFsU2Vjb25kczogbnVtYmVyKTogc3RyaW5nIHsKICBjb25zdCBzID0gTWF0aC5tYXgoMCwgdG90YWxTZWNvbmRzKTsKICBjb25zdCBoID0gTWF0aC5mbG9vcihzIC8gMzYwMCk7CiAgY29uc3QgbSA9IE1hdGguZmxvb3IoKHMgJSAzNjAwKSAvIDYwKTsKICBjb25zdCBzZWMgPSBzICUgNjA7CiAgaWYgKGggPiAwKSB7CiAgICByZXR1cm4gYCR7aH06JHtTdHJpbmcobSkucGFkU3RhcnQoMiwgIjAiKX06JHtTdHJpbmcoc2VjKS5wYWRTdGFydCgyLCAiMCIpfWA7CiAgfQogIHJldHVybiBgJHtTdHJpbmcobSkucGFkU3RhcnQoMiwgIjAiKX06JHtTdHJpbmcoc2VjKS5wYWRTdGFydCgyLCAiMCIpfWA7Cn0KCmZ1bmN0aW9uIGJlZXAoKSB7CiAgdHJ5IHsKICAgIGNvbnN0IEN0eCA9CiAgICAgIHdpbmRvdy5BdWRpb0NvbnRleHQgfHwKICAgICAgKHdpbmRvdyBhcyB1bmtub3duIGFzIHsgd2Via2l0QXVkaW9Db250ZXh0PzogdHlwZW9mIEF1ZGlvQ29udGV4dCB9KQogICAgICAgIC53ZWJraXRBdWRpb0NvbnRleHQ7CiAgICBpZiAoIUN0eCkgcmV0dXJuOwogICAgY29uc3QgY3R4ID0gbmV3IEN0eCgpOwogICAgY29uc3Qgb3NjID0gY3R4LmNyZWF0ZU9zY2lsbGF0b3IoKTsKICAgIGNvbnN0IGdhaW4gPSBjdHguY3JlYXRlR2FpbigpOwogICAgb3NjLmNvbm5lY3QoZ2Fpbik7CiAgICBnYWluLmNvbm5lY3QoY3R4LmRlc3RpbmF0aW9uKTsKICAgIG9zYy5mcmVxdWVuY3kudmFsdWUgPSA4ODA7CiAgICBnYWluLmdhaW4uc2V0VmFsdWVBdFRpbWUoMC4xNSwgY3R4LmN1cnJlbnRUaW1lKTsKICAgIG9zYy5zdGFydCgpOwogICAgb3NjLnN0b3AoY3R4LmN1cnJlbnRUaW1lICsgMC41KTsKICB9IGNhdGNoIHsKICAgIC8vIEJ1bnlpIGhhbnlhIGJvbnVzIOKAlCBhYmFpa2FuIGJpbGEgYnJvd3NlciBtZW5vbGFrLgogIH0KfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gVGltZXIoewogIHNlY29uZHMsCiAgbGFiZWwsCn06IHsKICBzZWNvbmRzOiBudW1iZXI7CiAgbGFiZWw/OiBzdHJpbmc7Cn0pIHsKICBjb25zdCBbcmVtYWluaW5nLCBzZXRSZW1haW5pbmddID0gdXNlU3RhdGUoc2Vjb25kcyk7CiAgY29uc3QgW3J1bm5pbmcsIHNldFJ1bm5pbmddID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IGRvbmVSZWYgPSB1c2VSZWYoZmFsc2UpOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgc2V0UmVtYWluaW5nKHNlY29uZHMpOwogICAgc2V0UnVubmluZyhmYWxzZSk7CiAgICBkb25lUmVmLmN1cnJlbnQgPSBmYWxzZTsKICB9LCBbc2Vjb25kc10pOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKCFydW5uaW5nKSByZXR1cm47CiAgICBjb25zdCBpZCA9IHNldEludGVydmFsKCgpID0+IHsKICAgICAgc2V0UmVtYWluaW5nKChwcmV2KSA9PiB7CiAgICAgICAgaWYgKHByZXYgPD0gMSkgewogICAgICAgICAgY2xlYXJJbnRlcnZhbChpZCk7CiAgICAgICAgICBzZXRSdW5uaW5nKGZhbHNlKTsKICAgICAgICAgIGlmICghZG9uZVJlZi5jdXJyZW50KSB7CiAgICAgICAgICAgIGRvbmVSZWYuY3VycmVudCA9IHRydWU7CiAgICAgICAgICAgIGJlZXAoKTsKICAgICAgICAgIH0KICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KICAgICAgICByZXR1cm4gcHJldiAtIDE7CiAgICAgIH0pOwogICAgfSwgMTAwMCk7CiAgICByZXR1cm4gKCkgPT4gY2xlYXJJbnRlcnZhbChpZCk7CiAgfSwgW3J1bm5pbmddKTsKCiAgY29uc3QgZmluaXNoZWQgPSByZW1haW5pbmcgPT09IDA7CiAgY29uc3QgcGN0ID0gc2Vjb25kcyA+IDAgPyBNYXRoLnJvdW5kKChyZW1haW5pbmcgLyBzZWNvbmRzKSAqIDEwMCkgOiAwOwoKICByZXR1cm4gKAogICAgPGRpdiBjbGFzc05hbWU9InJvdW5kZWQtMnhsIGJvcmRlci0yIGJvcmRlci1rb3BpLTgwMCBiZy1rb3BpLTkwMCBwLTQgdGV4dC1jZW50ZXIgdGV4dC1rcmVtLTEwMCI+CiAgICAgIHtsYWJlbCA/ICgKICAgICAgICA8cCBjbGFzc05hbWU9Im1iLTEgdGV4dC14cyBmb250LXNlbWlib2xkIHVwcGVyY2FzZSB0cmFja2luZy13aWRlIHRleHQta3JlbS0zMDAiPgogICAgICAgICAge2xhYmVsfQogICAgICAgIDwvcD4KICAgICAgKSA6IG51bGx9CiAgICAgIDxwCiAgICAgICAgY2xhc3NOYW1lPXtgZm9udC1tb25vIHRleHQtNXhsIGZvbnQtYm9sZCB0YWJ1bGFyLW51bXMgJHsKICAgICAgICAgIGZpbmlzaGVkID8gInRleHQtYmFrYXItNTAwIiA6ICIiCiAgICAgICAgfWB9CiAgICAgICAgYXJpYS1saXZlPSJwb2xpdGUiCiAgICAgID4KICAgICAgICB7Zm9ybWF0KHJlbWFpbmluZyl9CiAgICAgIDwvcD4KICAgICAgPGRpdiBjbGFzc05hbWU9Im14LWF1dG8gbXQtMyBoLTIgdy1mdWxsIG1heC13LXhzIG92ZXJmbG93LWhpZGRlbiByb3VuZGVkLWZ1bGwgYmcta29waS03MDAiPgogICAgICAgIDxkaXYKICAgICAgICAgIGNsYXNzTmFtZT0iaC1mdWxsIHJvdW5kZWQtZnVsbCBiZy1iYWthci01MDAgdHJhbnNpdGlvbi1hbGwgZHVyYXRpb24tMTAwMCIKICAgICAgICAgIHN0eWxlPXt7IHdpZHRoOiBgJHtwY3R9JWAgfX0KICAgICAgICAvPgogICAgICA8L2Rpdj4KICAgICAge2ZpbmlzaGVkID8gKAogICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMiB0ZXh0LXNtIGZvbnQtYm9sZCB0ZXh0LWJha2FyLTUwMCI+CiAgICAgICAgICDij7AgV2FrdHUgaGFiaXMhCiAgICAgICAgPC9wPgogICAgICApIDogbnVsbH0KICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTMgZmxleCBpdGVtcy1jZW50ZXIganVzdGlmeS1jZW50ZXIgZ2FwLTIiPgogICAgICAgIHshcnVubmluZyAmJiAhZmluaXNoZWQgPyAoCiAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgb25DbGljaz17KCkgPT4gc2V0UnVubmluZyh0cnVlKX0KICAgICAgICAgICAgY2xhc3NOYW1lPSJyb3VuZGVkLWZ1bGwgYmctYmFrYXItNTAwIHB4LTUgcHktMiB0ZXh0LXNtIGZvbnQtYm9sZCB0ZXh0LXdoaXRlIHRyYW5zaXRpb24gaG92ZXI6YmctYmFrYXItNjAwIgogICAgICAgICAgPgogICAgICAgICAgICDilrYgTXVsYWkKICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICkgOiBudWxsfQogICAgICAgIHtydW5uaW5nID8gKAogICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICB0eXBlPSJidXR0b24iCiAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHNldFJ1bm5pbmcoZmFsc2UpfQogICAgICAgICAgICBjbGFzc05hbWU9InJvdW5kZWQtZnVsbCBiZy1rcmVtLTIwMCBweC01IHB5LTIgdGV4dC1zbSBmb250LWJvbGQgdGV4dC1rb3BpLTkwMCB0cmFuc2l0aW9uIGhvdmVyOmJnLWtyZW0tMzAwIgogICAgICAgICAgPgogICAgICAgICAgICDij7ggSmVkYQogICAgICAgICAgPC9idXR0b24+CiAgICAgICAgKSA6IG51bGx9CiAgICAgICAgPGJ1dHRvbgogICAgICAgICAgdHlwZT0iYnV0dG9uIgogICAgICAgICAgb25DbGljaz17KCkgPT4gewogICAgICAgICAgICBzZXRSdW5uaW5nKGZhbHNlKTsKICAgICAgICAgICAgc2V0UmVtYWluaW5nKHNlY29uZHMpOwogICAgICAgICAgICBkb25lUmVmLmN1cnJlbnQgPSBmYWxzZTsKICAgICAgICAgIH19CiAgICAgICAgICBjbGFzc05hbWU9InJvdW5kZWQtZnVsbCBib3JkZXIgYm9yZGVyLWtyZW0tMzAwIHB4LTUgcHktMiB0ZXh0LXNtIGZvbnQtYm9sZCB0ZXh0LWtyZW0tMTAwIHRyYW5zaXRpb24gaG92ZXI6Ymcta29waS04MDAiCiAgICAgICAgPgogICAgICAgICAg4oa6IFJlc2V0CiAgICAgICAgPC9idXR0b24+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo=
+"use client";
+
+import { useEffect, useRef, useState } from "react";
+
+function format(totalSeconds: number): string {
+  const s = Math.max(0, totalSeconds);
+  const h = Math.floor(s / 3600);
+  const m = Math.floor((s % 3600) / 60);
+  const sec = s % 60;
+  if (h > 0) {
+    return `${h}:${String(m).padStart(2, "0")}:${String(sec).padStart(2, "0")}`;
+  }
+  return `${String(m).padStart(2, "0")}:${String(sec).padStart(2, "0")}`;
+}
+
+function beep() {
+  try {
+    const Ctx =
+      window.AudioContext ||
+      (window as unknown as { webkitAudioContext?: typeof AudioContext })
+        .webkitAudioContext;
+    if (!Ctx) return;
+    const ctx = new Ctx();
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.connect(gain);
+    gain.connect(ctx.destination);
+    osc.frequency.value = 880;
+    gain.gain.setValueAtTime(0.15, ctx.currentTime);
+    osc.start();
+    osc.stop(ctx.currentTime + 0.5);
+  } catch {
+    // Bunyi hanya bonus — abaikan bila browser menolak.
+  }
+}
+
+export default function Timer({
+  seconds,
+  label,
+}: {
+  seconds: number;
+  label?: string;
+}) {
+  const [remaining, setRemaining] = useState(seconds);
+  const [running, setRunning] = useState(false);
+  const doneRef = useRef(false);
+
+  useEffect(() => {
+    setRemaining(seconds);
+    setRunning(false);
+    doneRef.current = false;
+  }, [seconds]);
+
+  useEffect(() => {
+    if (!running) return;
+    const id = setInterval(() => {
+      setRemaining((prev) => {
+        if (prev <= 1) {
+          clearInterval(id);
+          setRunning(false);
+          if (!doneRef.current) {
+            doneRef.current = true;
+            beep();
+          }
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+    return () => clearInterval(id);
+  }, [running]);
+
+  const finished = remaining === 0;
+  const pct = seconds > 0 ? Math.round((remaining / seconds) * 100) : 0;
+
+  return (
+    <div className="rounded-2xl border-2 border-kopi-800 bg-kopi-900 p-4 text-center text-krem-100">
+      {label ? (
+        <p className="mb-1 text-xs font-semibold uppercase tracking-wide text-krem-300">
+          {label}
+        </p>
+      ) : null}
+      <p
+        className={`font-mono text-5xl font-bold tabular-nums ${
+          finished ? "text-bakar-500" : ""
+        }`}
+        aria-live="polite"
+      >
+        {format(remaining)}
+      </p>
+      <div className="mx-auto mt-3 h-2 w-full max-w-xs overflow-hidden rounded-full bg-kopi-700">
+        <div
+          className="h-full rounded-full bg-bakar-500 transition-all duration-1000"
+          style={{ width: `${pct}%` }}
+        />
+      </div>
+      {finished ? (
+        <p className="mt-2 text-sm font-bold text-bakar-500">
+          ⏰ Waktu habis!
+        </p>
+      ) : null}
+      <div className="mt-3 flex items-center justify-center gap-2">
+        {!running && !finished ? (
+          <button
+            type="button"
+            onClick={() => setRunning(true)}
+            className="rounded-full bg-bakar-500 px-5 py-2 text-sm font-bold text-white transition hover:bg-bakar-600"
+          >
+            ▶ Mulai
+          </button>
+        ) : null}
+        {running ? (
+          <button
+            type="button"
+            onClick={() => setRunning(false)}
+            className="rounded-full bg-krem-200 px-5 py-2 text-sm font-bold text-kopi-900 transition hover:bg-krem-300"
+          >
+            ⏸ Jeda
+          </button>
+        ) : null}
+        <button
+          type="button"
+          onClick={() => {
+            setRunning(false);
+            setRemaining(seconds);
+            doneRef.current = false;
+          }}
+          className="rounded-full border border-krem-300 px-5 py-2 text-sm font-bold text-krem-100 transition hover:bg-kopi-800"
+        >
+          ↺ Reset
+        </button>
+      </div>
+    </div>
+  );
+}

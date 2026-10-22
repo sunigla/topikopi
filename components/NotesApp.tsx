@@ -1,1 +1,226 @@
-InVzZSBjbGllbnQiOwoKaW1wb3J0IHsgdXNlRWZmZWN0LCB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgZ3VpZGVzIH0gZnJvbSAiQC9saWIvZGF0YSI7CgppbnRlcmZhY2UgTm90ZSB7CiAgaWQ6IHN0cmluZzsKICBkYXRlOiBzdHJpbmc7CiAgZHJpbms6IHN0cmluZzsKICBiZWFuczogc3RyaW5nOwogIHJhdGluZzogbnVtYmVyOwogIHRleHQ6IHN0cmluZzsKfQoKY29uc3QgU1RPUkFHRV9LRVkgPSAidG9waWtvcGktY2F0YXRhbiI7CgpmdW5jdGlvbiBsb2FkTm90ZXMoKTogTm90ZVtdIHsKICB0cnkgewogICAgY29uc3QgcmF3ID0gd2luZG93LmxvY2FsU3RvcmFnZS5nZXRJdGVtKFNUT1JBR0VfS0VZKTsKICAgIGlmICghcmF3KSByZXR1cm4gW107CiAgICBjb25zdCBwYXJzZWQgPSBKU09OLnBhcnNlKHJhdykgYXMgTm90ZVtdOwogICAgcmV0dXJuIEFycmF5LmlzQXJyYXkocGFyc2VkKSA/IHBhcnNlZCA6IFtdOwogIH0gY2F0Y2ggewogICAgcmV0dXJuIFtdOwogIH0KfQoKZnVuY3Rpb24gdG9kYXlJU08oKTogc3RyaW5nIHsKICBjb25zdCBkID0gbmV3IERhdGUoKTsKICBjb25zdCBsb2NhbCA9IG5ldyBEYXRlKGQuZ2V0VGltZSgpIC0gZC5nZXRUaW1lem9uZU9mZnNldCgpICogNjAwMDApOwogIHJldHVybiBsb2NhbC50b0lTT1N0cmluZygpLnNsaWNlKDAsIDEwKTsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gTm90ZXNBcHAoKSB7CiAgY29uc3QgW3JlYWR5LCBzZXRSZWFkeV0gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW25vdGVzLCBzZXROb3Rlc10gPSB1c2VTdGF0ZTxOb3RlW10+KFtdKTsKICBjb25zdCBbZGF0ZSwgc2V0RGF0ZV0gPSB1c2VTdGF0ZSh0b2RheUlTTygpKTsKICBjb25zdCBbZHJpbmssIHNldERyaW5rXSA9IHVzZVN0YXRlKGd1aWRlc1swXS5uYW1lKTsKICBjb25zdCBbYmVhbnMsIHNldEJlYW5zXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbcmF0aW5nLCBzZXRSYXRpbmddID0gdXNlU3RhdGUoNCk7CiAgY29uc3QgW3RleHQsIHNldFRleHRdID0gdXNlU3RhdGUoIiIpOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgc2V0Tm90ZXMobG9hZE5vdGVzKCkpOwogICAgc2V0UmVhZHkodHJ1ZSk7CiAgfSwgW10pOwoKICBmdW5jdGlvbiBwZXJzaXN0KG5leHQ6IE5vdGVbXSkgewogICAgc2V0Tm90ZXMobmV4dCk7CiAgICB0cnkgewogICAgICB3aW5kb3cubG9jYWxTdG9yYWdlLnNldEl0ZW0oU1RPUkFHRV9LRVksIEpTT04uc3RyaW5naWZ5KG5leHQpKTsKICAgIH0gY2F0Y2ggewogICAgICAvLyBQZW55aW1wYW5hbiBwZW51aC9kaXRvbGFrIGJyb3dzZXIg4oCUIGRhZnRhciB0ZXRhcCB0YW1waWwgZGkgc2VzaSBpbmkuCiAgICB9CiAgfQoKICBmdW5jdGlvbiBhZGROb3RlKGU6IFJlYWN0LkZvcm1FdmVudCkgewogICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgY29uc3Qgbm90ZTogTm90ZSA9IHsKICAgICAgaWQ6IGAke0RhdGUubm93KCl9LSR7TWF0aC5yYW5kb20oKS50b1N0cmluZygzNikuc2xpY2UoMiwgOCl9YCwKICAgICAgZGF0ZSwKICAgICAgZHJpbmssCiAgICAgIGJlYW5zOiBiZWFucy50cmltKCksCiAgICAgIHJhdGluZywKICAgICAgdGV4dDogdGV4dC50cmltKCksCiAgICB9OwogICAgY29uc3QgbmV4dCA9IFtub3RlLCAuLi5ub3Rlc10uc29ydCgoYSwgYikgPT4KICAgICAgYi5kYXRlLmxvY2FsZUNvbXBhcmUoYS5kYXRlKSwKICAgICk7CiAgICBwZXJzaXN0KG5leHQpOwogICAgc2V0QmVhbnMoIiIpOwogICAgc2V0VGV4dCgiIik7CiAgICBzZXRSYXRpbmcoNCk7CiAgfQoKICBmdW5jdGlvbiByZW1vdmVOb3RlKGlkOiBzdHJpbmcpIHsKICAgIHBlcnNpc3Qobm90ZXMuZmlsdGVyKChuKSA9PiBuLmlkICE9PSBpZCkpOwogIH0KCiAgcmV0dXJuICgKICAgIDxkaXY+CiAgICAgIDxmb3JtCiAgICAgICAgb25TdWJtaXQ9e2FkZE5vdGV9CiAgICAgICAgY2xhc3NOYW1lPSJyb3VuZGVkLTN4bCBiZy13aGl0ZSBwLTYgc2hhZG93LXNtIgogICAgICA+CiAgICAgICAgPGgyIGNsYXNzTmFtZT0idGV4dC1sZyBmb250LWV4dHJhYm9sZCB0ZXh0LWtvcGktOTAwIj4KICAgICAgICAgIFRhbWJhaCBjYXRhdGFuIHNlZHVoCiAgICAgICAgPC9oMj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNCBncmlkIGdyaWQtY29scy0xIGdhcC00IHNtOmdyaWQtY29scy0yIj4KICAgICAgICAgIDxsYWJlbCBjbGFzc05hbWU9ImJsb2NrIj4KICAgICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtYm9sZCB0ZXh0LWtvcGktNzAwIj5UYW5nZ2FsPC9zcGFuPgogICAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgICB0eXBlPSJkYXRlIgogICAgICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAgICAgdmFsdWU9e2RhdGV9CiAgICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXREYXRlKGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAgICAgICBjbGFzc05hbWU9Im10LTEgdy1mdWxsIHJvdW5kZWQteGwgYm9yZGVyIGJvcmRlci1rcmVtLTMwMCBiZy1rcmVtLTUwIHB4LTMgcHktMi41IHRleHQtc20gb3V0bGluZS1ub25lIGZvY3VzOmJvcmRlci1iYWthci01MDAiCiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L2xhYmVsPgogICAgICAgICAgPGxhYmVsIGNsYXNzTmFtZT0iYmxvY2siPgogICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20gZm9udC1ib2xkIHRleHQta29waS03MDAiPk1pbnVtYW48L3NwYW4+CiAgICAgICAgICAgIDxzZWxlY3QKICAgICAgICAgICAgICB2YWx1ZT17ZHJpbmt9CiAgICAgICAgICAgICAgb25DaGFuZ2U9eyhlKSA9PiBzZXREcmluayhlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAgICAgY2xhc3NOYW1lPSJtdC0xIHctZnVsbCByb3VuZGVkLXhsIGJvcmRlciBib3JkZXIta3JlbS0zMDAgYmcta3JlbS01MCBweC0zIHB5LTIuNSB0ZXh0LXNtIG91dGxpbmUtbm9uZSBmb2N1czpib3JkZXItYmFrYXItNTAwIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAge2d1aWRlcy5tYXAoKGcpID0+ICgKICAgICAgICAgICAgICAgIDxvcHRpb24ga2V5PXtnLnNsdWd9IHZhbHVlPXtnLm5hbWV9PgogICAgICAgICAgICAgICAgICB7Zy5uYW1lfQogICAgICAgICAgICAgICAgPC9vcHRpb24+CiAgICAgICAgICAgICAgKSl9CiAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iTGFpbm55YSI+TGFpbm55YTwvb3B0aW9uPgogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvbGFiZWw+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGxhYmVsIGNsYXNzTmFtZT0ibXQtNCBibG9jayI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20gZm9udC1ib2xkIHRleHQta29waS03MDAiPgogICAgICAgICAgICBCaWppIGtvcGkgKG5hbWEgLyByb2FzdGVyeSkKICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDxpbnB1dAogICAgICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICAgICB2YWx1ZT17YmVhbnN9CiAgICAgICAgICAgIG9uQ2hhbmdlPXsoZSkgPT4gc2V0QmVhbnMoZS50YXJnZXQudmFsdWUpfQogICAgICAgICAgICBwbGFjZWhvbGRlcj0iTWlzYWw6IEJsZW5kIGFyYWJpa2Etcm9idXN0YSBib251cyBMYUhvbWUiCiAgICAgICAgICAgIGNsYXNzTmFtZT0ibXQtMSB3LWZ1bGwgcm91bmRlZC14bCBib3JkZXIgYm9yZGVyLWtyZW0tMzAwIGJnLWtyZW0tNTAgcHgtMyBweS0yLjUgdGV4dC1zbSBvdXRsaW5lLW5vbmUgZm9jdXM6Ym9yZGVyLWJha2FyLTUwMCIKICAgICAgICAgIC8+CiAgICAgICAgPC9sYWJlbD4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibXQtNCI+CiAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9InRleHQtc20gZm9udC1ib2xkIHRleHQta29waS03MDAiPgogICAgICAgICAgICBQZW5pbGFpYW4gcmFzYQogICAgICAgICAgPC9zcGFuPgogICAgICAgICAgPGRpdiBjbGFzc05hbWU9Im10LTEuNSBmbGV4IGdhcC0xLjUiIHJvbGU9InJhZGlvZ3JvdXAiIGFyaWEtbGFiZWw9IlBlbmlsYWlhbiByYXNhIDEgc2FtcGFpIDUiPgogICAgICAgICAgICB7WzEsIDIsIDMsIDQsIDVdLm1hcCgobikgPT4gKAogICAgICAgICAgICAgIDxidXR0b24KICAgICAgICAgICAgICAgIGtleT17bn0KICAgICAgICAgICAgICAgIHR5cGU9ImJ1dHRvbiIKICAgICAgICAgICAgICAgIHJvbGU9InJhZGlvIgogICAgICAgICAgICAgICAgYXJpYS1jaGVja2VkPXtyYXRpbmcgPT09IG59CiAgICAgICAgICAgICAgICBvbkNsaWNrPXsoKSA9PiBzZXRSYXRpbmcobil9CiAgICAgICAgICAgICAgICBjbGFzc05hbWU9e2BoLTExIHctMTEgcm91bmRlZC1mdWxsIHRleHQtbGcgdHJhbnNpdGlvbiAkewogICAgICAgICAgICAgICAgICBuIDw9IHJhdGluZwogICAgICAgICAgICAgICAgICAgID8gImJnLWJha2FyLTUwMCB0ZXh0LXdoaXRlIgogICAgICAgICAgICAgICAgICAgIDogImJnLWtyZW0tMjAwIHRleHQta29waS01MDAgaG92ZXI6Ymcta3JlbS0zMDAiCiAgICAgICAgICAgICAgICB9YH0KICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICDimIUKICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgKSl9CiAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0ibWwtMiBzZWxmLWNlbnRlciB0ZXh0LXNtIGZvbnQtYm9sZCB0ZXh0LWtvcGktNzAwIj4KICAgICAgICAgICAgICB7cmF0aW5nfS81CiAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICAgIDxsYWJlbCBjbGFzc05hbWU9Im10LTQgYmxvY2siPgogICAgICAgICAgPHNwYW4gY2xhc3NOYW1lPSJ0ZXh0LXNtIGZvbnQtYm9sZCB0ZXh0LWtvcGktNzAwIj5DYXRhdGFuPC9zcGFuPgogICAgICAgICAgPHRleHRhcmVhCiAgICAgICAgICAgIHZhbHVlPXt0ZXh0fQogICAgICAgICAgICBvbkNoYW5nZT17KGUpID0+IHNldFRleHQoZS50YXJnZXQudmFsdWUpfQogICAgICAgICAgICByb3dzPXszfQogICAgICAgICAgICBwbGFjZWhvbGRlcj0iTWlzYWw6IGVrc3RyYWtzaSAyNyBkZXRpaywgY3JlbWEgdGViYWwsIHJhc2Egc2VpbWJhbmcuIEJlc29rIGNvYmEgdGFtcGluZyBzZWRpa2l0IGxlYmloIHJpbmdhbi4iCiAgICAgICAgICAgIGNsYXNzTmFtZT0ibXQtMSB3LWZ1bGwgcm91bmRlZC14bCBib3JkZXIgYm9yZGVyLWtyZW0tMzAwIGJnLWtyZW0tNTAgcHgtMyBweS0yLjUgdGV4dC1zbSBvdXRsaW5lLW5vbmUgZm9jdXM6Ym9yZGVyLWJha2FyLTUwMCIKICAgICAgICAgIC8+CiAgICAgICAgPC9sYWJlbD4KICAgICAgICA8YnV0dG9uCiAgICAgICAgICB0eXBlPSJzdWJtaXQiCiAgICAgICAgICBjbGFzc05hbWU9Im10LTUgdy1mdWxsIHJvdW5kZWQtZnVsbCBiZy1rb3BpLTkwMCBweS0zIGZvbnQtYm9sZCB0ZXh0LWtyZW0tMTAwIHRyYW5zaXRpb24gaG92ZXI6Ymcta29waS04MDAgc206dy1hdXRvIHNtOnB4LTgiCiAgICAgICAgPgogICAgICAgICAgU2ltcGFuIGNhdGF0YW4KICAgICAgICA8L2J1dHRvbj4KICAgICAgPC9mb3JtPgoKICAgICAgPHNlY3Rpb24gY2xhc3NOYW1lPSJtdC04Ij4KICAgICAgICA8aDIgY2xhc3NOYW1lPSJ0ZXh0LWxnIGZvbnQtZXh0cmFib2xkIHRleHQta29waS05MDAiPgogICAgICAgICAgQ2F0YXRhbiB0ZXJzaW1wYW4ge3JlYWR5ICYmIG5vdGVzLmxlbmd0aCA+IDAgPyBgKCR7bm90ZXMubGVuZ3RofSlgIDogIiJ9CiAgICAgICAgPC9oMj4KICAgICAgICB7IXJlYWR5ID8gKAogICAgICAgICAgPHAgY2xhc3NOYW1lPSJtdC0zIHRleHQtc20gdGV4dC1rb3BpLTcwMCI+TWVtdWF0IGNhdGF0YW7igKY8L3A+CiAgICAgICAgKSA6IG5vdGVzLmxlbmd0aCA9PT0gMCA/ICgKICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMyByb3VuZGVkLTN4bCBib3JkZXItMiBib3JkZXItZGFzaGVkIGJvcmRlci1rcmVtLTMwMCBiZy1rcmVtLTUwIHAtNiB0ZXh0LWNlbnRlciB0ZXh0LXNtIGxlYWRpbmctcmVsYXhlZCB0ZXh0LWtvcGktNzAwIj4KICAgICAgICAgICAgQmVsdW0gYWRhIGNhdGF0YW4uIFNlZHVoIGdlbGFzIHBlcnRhbWFtdSBwYWthaSBzYWxhaCBzYXR1IHBhbmR1YW4sCiAgICAgICAgICAgIGxhbHUgc2ltcGFuIGhhc2lsbnlhIGRpIHNpbmkg4oCUIGxhbWEtbGFtYSBrYW11IHB1bnlhIHBldGEgcmFzYQogICAgICAgICAgICBzZW5kaXJpLgogICAgICAgICAgPC9wPgogICAgICAgICkgOiAoCiAgICAgICAgICA8dWwgY2xhc3NOYW1lPSJtdC00IHNwYWNlLXktMyI+CiAgICAgICAgICAgIHtub3Rlcy5tYXAoKG4pID0+ICgKICAgICAgICAgICAgICA8bGkKICAgICAgICAgICAgICAgIGtleT17bi5pZH0KICAgICAgICAgICAgICAgIGNsYXNzTmFtZT0icm91bmRlZC0zeGwgYm9yZGVyIGJvcmRlci1rcmVtLTIwMCBiZy13aGl0ZSBwLTUgc2hhZG93LXNtIgogICAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJmbGV4IGl0ZW1zLXN0YXJ0IGp1c3RpZnktYmV0d2VlbiBnYXAtMyI+CiAgICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3NOYW1lPSJmb250LWV4dHJhYm9sZCB0ZXh0LWtvcGktOTAwIj4KICAgICAgICAgICAgICAgICAgICAgIHtuLmRyaW5rfXsiICJ9CiAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzc05hbWU9Im1sLTEgdGV4dC1iYWthci01MDAiIGFyaWEtbGFiZWw9e2BuaWxhaSAke24ucmF0aW5nfSBkYXJpIDVgfT4KICAgICAgICAgICAgICAgICAgICAgICAgeyLimIUiLnJlcGVhdChuLnJhdGluZyl9CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzTmFtZT0idGV4dC1rcmVtLTMwMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgeyLimIUiLnJlcGVhdCg1IC0gbi5yYXRpbmcpfQogICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMC41IHRleHQteHMgZm9udC1zZW1pYm9sZCB0ZXh0LWtvcGktNTAwIj4KICAgICAgICAgICAgICAgICAgICAgIHtuLmRhdGV9CiAgICAgICAgICAgICAgICAgICAgICB7bi5iZWFucyA/IGAgwrcgJHtuLmJlYW5zfWAgOiAiIn0KICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8YnV0dG9uCiAgICAgICAgICAgICAgICAgICAgdHlwZT0iYnV0dG9uIgogICAgICAgICAgICAgICAgICAgIG9uQ2xpY2s9eygpID0+IHJlbW92ZU5vdGUobi5pZCl9CiAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJzaHJpbmstMCByb3VuZGVkLWZ1bGwgYmcta3JlbS0yMDAgcHgtMyBweS0xLjUgdGV4dC14cyBmb250LWJvbGQgdGV4dC1rb3BpLTgwMCB0cmFuc2l0aW9uIGhvdmVyOmJnLXJlZC0xMDAgaG92ZXI6dGV4dC1yZWQtNzAwIgogICAgICAgICAgICAgICAgICAgIGFyaWEtbGFiZWw9e2BIYXB1cyBjYXRhdGFuICR7bi5kcmlua30gdGFuZ2dhbCAke24uZGF0ZX1gfQogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgSGFwdXMKICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIHtuLnRleHQgPyAoCiAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0ibXQtMi41IHRleHQtc20gbGVhZGluZy1yZWxheGVkIj57bi50ZXh0fTwvcD4KICAgICAgICAgICAgICAgICkgOiBudWxsfQogICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICkpfQogICAgICAgICAgPC91bD4KICAgICAgICApfQogICAgICA8L3NlY3Rpb24+CiAgICA8L2Rpdj4KICApOwp9Cg==
+"use client";
+
+import { useEffect, useState } from "react";
+import { guides } from "@/lib/data";
+
+interface Note {
+  id: string;
+  date: string;
+  drink: string;
+  beans: string;
+  rating: number;
+  text: string;
+}
+
+const STORAGE_KEY = "topikopi-catatan";
+
+function loadNotes(): Note[] {
+  try {
+    const raw = window.localStorage.getItem(STORAGE_KEY);
+    if (!raw) return [];
+    const parsed = JSON.parse(raw) as Note[];
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+
+function todayISO(): string {
+  const d = new Date();
+  const local = new Date(d.getTime() - d.getTimezoneOffset() * 60000);
+  return local.toISOString().slice(0, 10);
+}
+
+export default function NotesApp() {
+  const [ready, setReady] = useState(false);
+  const [notes, setNotes] = useState<Note[]>([]);
+  const [date, setDate] = useState(todayISO());
+  const [drink, setDrink] = useState(guides[0].name);
+  const [beans, setBeans] = useState("");
+  const [rating, setRating] = useState(4);
+  const [text, setText] = useState("");
+
+  useEffect(() => {
+    setNotes(loadNotes());
+    setReady(true);
+  }, []);
+
+  function persist(next: Note[]) {
+    setNotes(next);
+    try {
+      window.localStorage.setItem(STORAGE_KEY, JSON.stringify(next));
+    } catch {
+      // Penyimpanan penuh/ditolak browser — daftar tetap tampil di sesi ini.
+    }
+  }
+
+  function addNote(e: React.FormEvent) {
+    e.preventDefault();
+    const note: Note = {
+      id: `${Date.now()}-${Math.random().toString(36).slice(2, 8)}`,
+      date,
+      drink,
+      beans: beans.trim(),
+      rating,
+      text: text.trim(),
+    };
+    const next = [note, ...notes].sort((a, b) =>
+      b.date.localeCompare(a.date),
+    );
+    persist(next);
+    setBeans("");
+    setText("");
+    setRating(4);
+  }
+
+  function removeNote(id: string) {
+    persist(notes.filter((n) => n.id !== id));
+  }
+
+  return (
+    <div>
+      <form
+        onSubmit={addNote}
+        className="rounded-3xl bg-white p-6 shadow-sm"
+      >
+        <h2 className="text-lg font-extrabold text-kopi-900">
+          Tambah catatan seduh
+        </h2>
+        <div className="mt-4 grid grid-cols-1 gap-4 sm:grid-cols-2">
+          <label className="block">
+            <span className="text-sm font-bold text-kopi-700">Tanggal</span>
+            <input
+              type="date"
+              required
+              value={date}
+              onChange={(e) => setDate(e.target.value)}
+              className="mt-1 w-full rounded-xl border border-krem-300 bg-krem-50 px-3 py-2.5 text-sm outline-none focus:border-bakar-500"
+            />
+          </label>
+          <label className="block">
+            <span className="text-sm font-bold text-kopi-700">Minuman</span>
+            <select
+              value={drink}
+              onChange={(e) => setDrink(e.target.value)}
+              className="mt-1 w-full rounded-xl border border-krem-300 bg-krem-50 px-3 py-2.5 text-sm outline-none focus:border-bakar-500"
+            >
+              {guides.map((g) => (
+                <option key={g.slug} value={g.name}>
+                  {g.name}
+                </option>
+              ))}
+              <option value="Lainnya">Lainnya</option>
+            </select>
+          </label>
+        </div>
+        <label className="mt-4 block">
+          <span className="text-sm font-bold text-kopi-700">
+            Biji kopi (nama / roastery)
+          </span>
+          <input
+            type="text"
+            value={beans}
+            onChange={(e) => setBeans(e.target.value)}
+            placeholder="Misal: Blend arabika-robusta bonus LaHome"
+            className="mt-1 w-full rounded-xl border border-krem-300 bg-krem-50 px-3 py-2.5 text-sm outline-none focus:border-bakar-500"
+          />
+        </label>
+        <div className="mt-4">
+          <span className="text-sm font-bold text-kopi-700">
+            Penilaian rasa
+          </span>
+          <div className="mt-1.5 flex gap-1.5" role="radiogroup" aria-label="Penilaian rasa 1 sampai 5">
+            {[1, 2, 3, 4, 5].map((n) => (
+              <button
+                key={n}
+                type="button"
+                role="radio"
+                aria-checked={rating === n}
+                onClick={() => setRating(n)}
+                className={`h-11 w-11 rounded-full text-lg transition ${
+                  n <= rating
+                    ? "bg-bakar-500 text-white"
+                    : "bg-krem-200 text-kopi-500 hover:bg-krem-300"
+                }`}
+              >
+                ★
+              </button>
+            ))}
+            <span className="ml-2 self-center text-sm font-bold text-kopi-700">
+              {rating}/5
+            </span>
+          </div>
+        </div>
+        <label className="mt-4 block">
+          <span className="text-sm font-bold text-kopi-700">Catatan</span>
+          <textarea
+            value={text}
+            onChange={(e) => setText(e.target.value)}
+            rows={3}
+            placeholder="Misal: ekstraksi 27 detik, crema tebal, rasa seimbang. Besok coba tamping sedikit lebih ringan."
+            className="mt-1 w-full rounded-xl border border-krem-300 bg-krem-50 px-3 py-2.5 text-sm outline-none focus:border-bakar-500"
+          />
+        </label>
+        <button
+          type="submit"
+          className="mt-5 w-full rounded-full bg-kopi-900 py-3 font-bold text-krem-100 transition hover:bg-kopi-800 sm:w-auto sm:px-8"
+        >
+          Simpan catatan
+        </button>
+      </form>
+
+      <section className="mt-8">
+        <h2 className="text-lg font-extrabold text-kopi-900">
+          Catatan tersimpan {ready && notes.length > 0 ? `(${notes.length})` : ""}
+        </h2>
+        {!ready ? (
+          <p className="mt-3 text-sm text-kopi-700">Memuat catatan…</p>
+        ) : notes.length === 0 ? (
+          <p className="mt-3 rounded-3xl border-2 border-dashed border-krem-300 bg-krem-50 p-6 text-center text-sm leading-relaxed text-kopi-700">
+            Belum ada catatan. Seduh gelas pertamamu pakai salah satu panduan,
+            lalu simpan hasilnya di sini — lama-lama kamu punya peta rasa
+            sendiri.
+          </p>
+        ) : (
+          <ul className="mt-4 space-y-3">
+            {notes.map((n) => (
+              <li
+                key={n.id}
+                className="rounded-3xl border border-krem-200 bg-white p-5 shadow-sm"
+              >
+                <div className="flex items-start justify-between gap-3">
+                  <div>
+                    <p className="font-extrabold text-kopi-900">
+                      {n.drink}{" "}
+                      <span className="ml-1 text-bakar-500" aria-label={`nilai ${n.rating} dari 5`}>
+                        {"★".repeat(n.rating)}
+                        <span className="text-krem-300">
+                          {"★".repeat(5 - n.rating)}
+                        </span>
+                      </span>
+                    </p>
+                    <p className="mt-0.5 text-xs font-semibold text-kopi-500">
+                      {n.date}
+                      {n.beans ? ` · ${n.beans}` : ""}
+                    </p>
+                  </div>
+                  <button
+                    type="button"
+                    onClick={() => removeNote(n.id)}
+                    className="shrink-0 rounded-full bg-krem-200 px-3 py-1.5 text-xs font-bold text-kopi-800 transition hover:bg-red-100 hover:text-red-700"
+                    aria-label={`Hapus catatan ${n.drink} tanggal ${n.date}`}
+                  >
+                    Hapus
+                  </button>
+                </div>
+                {n.text ? (
+                  <p className="mt-2.5 text-sm leading-relaxed">{n.text}</p>
+                ) : null}
+              </li>
+            ))}
+          </ul>
+        )}
+      </section>
+    </div>
+  );
+}

@@ -1,1 +1,25 @@
-QGltcG9ydCAidGFpbHdpbmRjc3MiOwoKQHRoZW1lIHsKICAtLWNvbG9yLWtvcGktOTUwOiAjMWMxMTBhOwogIC0tY29sb3Ita29waS05MDA6ICMyYjFhMTI7CiAgLS1jb2xvci1rb3BpLTgwMDogIzNlMjcxODsKICAtLWNvbG9yLWtvcGktNzAwOiAjNTUzNTIxOwogIC0tY29sb3Ita29waS01MDA6ICM3ZDUyMzM7CiAgLS1jb2xvci1rb3BpLTMwMDogI2I5OGQ2MzsKICAtLWNvbG9yLWtyZW0tNTA6ICNmZGY5ZjI7CiAgLS1jb2xvci1rcmVtLTEwMDogI2Y3ZWZlMTsKICAtLWNvbG9yLWtyZW0tMjAwOiAjZWVkZGJlOwogIC0tY29sb3Ita3JlbS0zMDA6ICNlMGM0OTE7CiAgLS1jb2xvci1iYWthci01MDA6ICNkOTZmMjc7CiAgLS1jb2xvci1iYWthci02MDA6ICNiYzU4MTc7Cn0KCmh0bWwgewogIHNjcm9sbC1iZWhhdmlvcjogc21vb3RoOwp9Cgpib2R5IHsKICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1jb2xvci1rcmVtLTEwMCk7CiAgY29sb3I6IHZhcigtLWNvbG9yLWtvcGktOTUwKTsKfQo=
+@import "tailwindcss";
+
+@theme {
+  --color-kopi-950: #1c110a;
+  --color-kopi-900: #2b1a12;
+  --color-kopi-800: #3e2718;
+  --color-kopi-700: #553521;
+  --color-kopi-500: #7d5233;
+  --color-kopi-300: #b98d63;
+  --color-krem-50: #fdf9f2;
+  --color-krem-100: #f7efe1;
+  --color-krem-200: #eeddbe;
+  --color-krem-300: #e0c491;
+  --color-bakar-500: #d96f27;
+  --color-bakar-600: #bc5817;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-krem-100);
+  color: var(--color-kopi-950);
+}
